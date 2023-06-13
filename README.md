@@ -38,3 +38,13 @@ The file is going to document the steps and procedure used to complete this proj
 * import seaborn as sns
 * from scipy.stats import chi2_contingency
 * from scipy.stats import ttest_ind
+* from sklearn.linear_model import LogisticRegression
+* from sklearn.tree import DecisionTreeClassifier
+* from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier
+* from sklearn.svm import SVC
+* from sklearn.neighbors import KNeighborsClassifier
+* from sklearn.naive_bayes import GaussianNB
+* from xgboost import XGBClassifier
+* from lightgbm import LGBMClassifier
+* from catboost import CatBoostClassifier
+* from sklearn.metrics import precision_score, recall_score, f1_score, roc_auc_score
