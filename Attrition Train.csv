@@ -3001,7 +3001,7 @@
 2999,1A1:U3001038-RQOST,Male,No,Yes,Yes,19,Yes,No,No,,,,,,,Month-to-month,No,Mailed check,20.600000381469727,414.95001220703125,No
 0,5600-PDUJF,Male,No,No,No,6,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),49.5,312.7,No
 1,8292-TYSPY,Male,No,No,No,19,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),55.0,1046.5,Yes
-2,0567-XRHCU,Female,No,Yes,Yes,69,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),43.95,2960.1,No
+2,0567-XRHCU,Female,No,Yes,Yes,69,No,No,DSL,Yes,No,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),43.95,2960.1,No
 3,1867-BDVFH,Male,No,Yes,Yes,11,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.35,834.2,Yes
 4,2067-QYTCF,Female,No,Yes,No,64,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,111.15,6953.4,No
 5,2359-QWQUL,Female,No,Yes,No,39,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),104.7,4134.85,Yes
@@ -3012,11 +3012,11 @@
 10,3654-ARMGP,Female,No,No,No,61,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),88.65,5321.25,No
 11,9699-UBQFS,Female,Yes,Yes,No,43,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,94.5,4156.8,No
 12,9367-TCUYN,Female,No,No,No,12,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.1,223.6,No
-13,1261-FWTTE,Male,Yes,No,No,23,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),34.65,768.45,No
-14,3528-HFRIQ,Male,Yes,Yes,No,71,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),52.3,3765.05,No
+13,1261-FWTTE,Male,Yes,No,No,23,No,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),34.65,768.45,No
+14,3528-HFRIQ,Male,Yes,Yes,No,71,No,No,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),52.3,3765.05,No
 15,0708-SJDIS,Female,No,No,No,34,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Mailed check,65.0,2157.5,No
 16,4140-WJAWW,Female,No,No,No,5,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),19.85,108.05,Yes
-17,2073-QBVBI,Female,No,Yes,No,41,No,No phone service,DSL,No,Yes,No,Yes,No,No,One year,No,Mailed check,35.45,1391.65,No
+17,2073-QBVBI,Female,No,Yes,No,41,No,No,DSL,No,Yes,No,Yes,No,No,One year,No,Mailed check,35.45,1391.65,No
 18,6928-ONTRW,Female,No,Yes,Yes,72,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),19.7,1379.8,No
 19,3320-VEOYC,Male,Yes,No,No,14,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.6,1273.3,No
 20,5231-FIQPA,Female,No,No,No,41,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,19.85,810.45,No
@@ -3033,7 +3033,7 @@
 31,8118-TJAFG,Male,No,Yes,Yes,9,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101.5,906.85,No
 32,5429-LWCMV,Female,No,No,No,12,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,89.15,1057.55,No
 33,7298-IZWLY,Female,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,19.4,19.4,No
-34,9758-MFWGD,Female,Yes,Yes,Yes,48,No,No phone service,DSL,No,Yes,No,No,No,No,One year,No,Bank transfer (automatic),29.9,1388.75,No
+34,9758-MFWGD,Female,Yes,Yes,Yes,48,No,No,DSL,No,Yes,No,No,No,No,One year,No,Bank transfer (automatic),29.9,1388.75,No
 35,3955-JBZZM,Male,No,No,No,20,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,78.8,1641.3,No
 36,1268-ASBGA,Female,Yes,Yes,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85.35,1375.15,Yes
 37,8943-URTMR,Female,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,79.65,152.7,Yes
@@ -3059,20 +3059,20 @@
 57,7354-OIJLX,Male,No,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.85,724.65,No
 58,1376-HHBDV,Female,No,No,No,30,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,48.8,1536.75,No
 59,6907-NZZIJ,Female,No,No,No,36,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.15,3615.6,Yes
-60,6133-OZILE,Female,No,No,No,18,No,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,35.2,607.3,No
+60,6133-OZILE,Female,No,No,No,18,No,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,35.2,607.3,No
 61,4135-FRWKJ,Female,Yes,Yes,Yes,55,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Electronic check,76.25,4154.55,No
-62,2911-UREFD,Female,No,Yes,No,39,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,55.9,2184.35,Yes
+62,2911-UREFD,Female,No,Yes,No,39,No,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,55.9,2184.35,Yes
 63,3744-ZRRDZ,Male,No,No,No,21,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,82.35,1852.85,Yes
-64,5673-TIYIB,Male,No,No,No,2,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),40.4,77.15,Yes
+64,5673-TIYIB,Male,No,No,No,2,No,No,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),40.4,77.15,Yes
 65,6551-ZCOTS,Male,Yes,No,No,33,Yes,Yes,No,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),24.9,847.8,No
-66,7191-ADRGF,Male,No,Yes,No,44,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),54.3,2390.45,No
+66,7191-ADRGF,Male,No,Yes,No,44,No,No,DSL,No,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),54.3,2390.45,No
 67,5018-LXQQG,Female,No,Yes,Yes,30,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),66.3,1923.5,No
 68,6892-BOGQE,Female,No,Yes,No,71,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Bank transfer (automatic),20.9,1493.2,No
 69,1602-IJQQE,Female,No,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,75.35,338.1,Yes
 70,4628-WQCQQ,Male,No,No,Yes,35,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Electronic check,85.15,3030.6,Yes
 71,1746-TGTWV,Male,No,Yes,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),75.35,75.35,No
 72,5995-SNNEW,Male,Yes,Yes,No,23,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.45,2184.85,No
-73,8050-WYBND,Female,No,No,Yes,22,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),49.45,1031.4,No
+73,8050-WYBND,Female,No,No,Yes,22,No,No,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),49.45,1031.4,No
 74,2821-WARNZ,Female,No,No,Yes,49,Yes,No,No,No,No,No,No,No,No,One year,No,Credit card (automatic),19.45,921.3,No
 75,4879-GZLFH,Female,No,Yes,Yes,42,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,92.15,3875.4,No
 76,1644-IRKSF,Female,No,Yes,Yes,33,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,93.8,3124.5,Yes
@@ -3084,13 +3084,13 @@
 82,8779-YIQQA,Male,No,Yes,Yes,21,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,19.8,350.1,No
 83,7136-IHZJA,Female,No,Yes,Yes,40,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,71.35,2847.2,No
 84,8966-OIQHG,Female,No,Yes,Yes,22,Yes,No,No,No,No,No,No,No,No,One year,No,Bank transfer (automatic),20.75,452.35,No
-85,7074-STDCN,Male,No,No,No,39,No,No phone service,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,40.6,1494.5,No
+85,7074-STDCN,Male,No,No,No,39,No,No,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,40.6,1494.5,No
 86,3705-PSNGL,Male,No,No,No,45,Yes,No,No,No,No,No,No,No,No,One year,Yes,Electronic check,20.4,930.45,Yes
 87,8739-QOTTN,Female,No,Yes,No,2,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.35,41.85,No
 88,1399-OUPJN,Female,No,Yes,Yes,57,Yes,No,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),19.75,1272.05,No
 89,0277-BKSQP,Male,No,Yes,Yes,8,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,54.4,475.1,No
 90,6502-HCJTI,Male,Yes,Yes,No,7,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),94.7,673.1,Yes
-91,2606-RMDHZ,Male,No,No,No,6,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),30.5,208.7,Yes
+91,2606-RMDHZ,Male,No,No,No,6,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),30.5,208.7,Yes
 92,5774-XZTQC,Female,No,Yes,Yes,7,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.45,150.75,No
 93,2676-SSLTO,Male,No,No,No,49,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),66.15,3199.0,No
 94,6266-QHOJZ,Female,No,No,No,65,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Electronic check,89.85,5844.65,No
@@ -3116,7 +3116,7 @@
 114,5371-VYLSX,Female,Yes,No,No,50,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,83.4,4113.7,No
 115,6374-AFWOX,Male,No,Yes,No,46,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Mailed check,65.65,3047.15,No
 116,4759-TRPLW,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.4,70.4,Yes
-117,5317-FLPJF,Female,No,No,No,66,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),61.35,4193.4,No
+117,5317-FLPJF,Female,No,No,No,66,No,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),61.35,4193.4,No
 118,7621-VPNET,Female,No,Yes,No,42,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),85.9,3729.75,No
 119,6034-YMTOB,Female,No,No,No,5,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,75.65,399.45,No
 120,8563-IIOXK,Male,No,Yes,Yes,7,Yes,No,DSL,Yes,No,No,No,No,No,One year,Yes,Electronic check,49.75,331.3,Yes
@@ -3129,7 +3129,7 @@
 127,8199-ZLLSA,Male,No,No,No,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),118.35,7804.15,Yes
 128,4128-ETESU,Female,Yes,Yes,No,47,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,99.7,4747.2,No
 129,0620-DLSLK,Female,No,No,No,13,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,81.9,1028.9,No
-130,4625-EWPTF,Male,No,No,No,8,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,30.45,226.45,Yes
+130,4625-EWPTF,Male,No,No,No,8,No,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,30.45,226.45,Yes
 131,5980-NOPLP,Female,No,Yes,No,44,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,96.1,4364.1,Yes
 132,3850-OKINF,Male,No,Yes,Yes,71,Yes,Yes,DSL,Yes,No,No,No,Yes,No,One year,Yes,Electronic check,66.2,4692.55,No
 133,6892-XPFPU,Male,Yes,Yes,No,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.25,2433.9,Yes
@@ -3143,10 +3143,10 @@
 141,0303-WMMRN,Male,No,No,No,5,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,19.25,86.05,No
 142,6408-OTUBZ,Female,No,No,No,66,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),104.55,6779.05,No
 143,5204-HMGYF,Female,No,Yes,Yes,49,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,87.2,4345.0,No
-144,1078-TDCRN,Female,Yes,Yes,No,3,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,30.75,82.85,No
+144,1078-TDCRN,Female,Yes,Yes,No,3,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,30.75,82.85,No
 145,3727-OVPRY,Male,No,Yes,Yes,66,Yes,Yes,No,No,No,No,No,No,No,One year,Yes,Credit card (automatic),25.7,1714.55,No
 146,3797-FKOGQ,Male,No,No,Yes,11,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,86.2,893.2,No
-147,7622-NXQZR,Male,No,No,No,28,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),30.1,810.85,No
+147,7622-NXQZR,Male,No,No,No,28,No,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),30.1,810.85,No
 148,6196-HBOBZ,Male,No,Yes,No,65,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Electronic check,99.35,6347.55,No
 149,3970-XGJDU,Female,No,No,No,62,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),19.2,1123.65,No
 150,7017-VFULY,Female,No,Yes,No,2,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),20.1,43.15,No
@@ -3162,7 +3162,7 @@
 160,9840-EFJQB,Female,No,No,No,1,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,74.35,74.35,No
 161,0696-UKTOX,Male,No,No,Yes,23,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,54.15,1312.45,No
 162,4801-KFYKL,Male,No,No,Yes,8,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),19.45,159.2,No
-163,3472-OAOOR,Male,No,Yes,Yes,19,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,34.95,610.2,No
+163,3472-OAOOR,Male,No,Yes,Yes,19,No,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,34.95,610.2,No
 164,6135-OZQVA,Female,No,No,No,7,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,53.65,404.35,No
 165,8062-YBDOE,Male,Yes,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.65,69.65,Yes
 166,2252-JHJGE,Male,No,No,No,61,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,No,Electronic check,104.0,6363.45,No
@@ -3175,17 +3175,17 @@
 173,2480-SQIOB,Male,No,Yes,Yes,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,44.8,169.65,No
 174,0947-IDHRQ,Female,No,No,No,7,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,80.3,526.7,Yes
 175,7813-TKCVO,Female,No,Yes,No,20,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,20.35,393.15,No
-176,0128-MKWSG,Female,No,No,Yes,26,No,No phone service,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Mailed check,45.8,1147.0,No
+176,0128-MKWSG,Female,No,No,Yes,26,No,No,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Mailed check,45.8,1147.0,No
 177,3672-YITQD,Male,Yes,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.1,3021.6,Yes
 178,4350-ZTLPI,Female,No,Yes,No,53,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),108.95,5718.2,No
 179,9048-JVYVF,Male,No,No,No,3,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,69.35,191.35,Yes
-180,0361-HJRDX,Female,No,No,No,68,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),64.35,4539.6,No
+180,0361-HJRDX,Female,No,No,No,68,No,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),64.35,4539.6,No
 181,5727-MYATE,Male,No,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90.8,6397.6,No
 182,3823-KYNQY,Male,No,No,No,12,Yes,Yes,No,No,No,No,No,No,No,One year,No,Credit card (automatic),24.95,280.4,No
 183,8988-ECPJR,Female,Yes,Yes,Yes,34,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,79.6,2718.3,Yes
 184,7570-WELNY,Female,No,Yes,No,68,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Two year,Yes,Bank transfer (automatic),84.7,5711.05,No
 185,3021-VLNRJ,Female,No,No,Yes,50,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),70.8,3478.15,No
-186,3776-EKTKM,Female,Yes,No,No,1,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,36.45,36.45,Yes
+186,3776-EKTKM,Female,Yes,No,No,1,No,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,36.45,36.45,Yes
 187,2080-CAZNM,Female,Yes,No,No,41,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.4,4133.95,No
 188,1028-FFNJK,Male,Yes,Yes,No,30,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101.5,2917.65,No
 189,6907-FLBER,Male,No,No,No,1,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,54.3,54.3,No
@@ -3203,19 +3203,19 @@
 201,6202-JVYEU,Male,No,No,No,9,Yes,No,No,No,No,No,No,No,No,One year,Yes,Electronic check,19.9,164.6,No
 202,8591-TKMZH,Male,No,Yes,Yes,59,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Mailed check,111.1,6555.2,No
 203,0734-OXWBT,Male,No,No,Yes,3,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,70.7,225.65,No
-204,4282-ACRXS,Male,Yes,Yes,No,38,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.85,955.75,No
+204,4282-ACRXS,Male,Yes,Yes,No,38,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.85,955.75,No
 205,0365-TRTPY,Female,No,No,No,37,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),91.2,3382.3,No
 206,7349-ALMUX,Male,No,No,No,37,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),65.6,2313.8,No
-207,9381-NDKME,Female,Yes,Yes,No,24,No,No phone service,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),40.65,933.3,Yes
+207,9381-NDKME,Female,Yes,Yes,No,24,No,No,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),40.65,933.3,Yes
 208,6502-KUGLL,Female,No,Yes,Yes,14,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),59.45,780.85,No
 209,1841-YSJGV,Male,No,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),109.95,7852.4,No
-210,2794-XIMMO,Male,No,Yes,No,53,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,60.45,3184.25,Yes
+210,2794-XIMMO,Male,No,Yes,No,53,No,No,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,60.45,3184.25,Yes
 211,8382-SHQEH,Female,No,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.9,764.95,Yes
-212,3511-BFTJW,Male,No,Yes,Yes,72,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Credit card (automatic),38.5,2763.0,No
+212,3511-BFTJW,Male,No,Yes,Yes,72,No,No,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Credit card (automatic),38.5,2763.0,No
 213,7668-XCFYV,Female,Yes,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92.55,1614.7,No
 214,2983-ZANRP,Female,No,Yes,Yes,2,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),73.55,145.4,Yes
 215,7845-URHJN,Female,No,Yes,No,8,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),20.15,156.25,Yes
-216,3034-ZBEQN,Female,No,Yes,No,48,No,No phone service,DSL,No,Yes,Yes,No,No,No,One year,No,Mailed check,34.7,1604.5,Yes
+216,3034-ZBEQN,Female,No,Yes,No,48,No,No,DSL,No,Yes,Yes,No,No,No,One year,No,Mailed check,34.7,1604.5,Yes
 217,5018-HEKFO,Female,No,No,No,10,Yes,Yes,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24.5,270.15,No
 218,2923-ARZLG,Male,No,Yes,Yes,0,Yes,No,No,No,No,No,No,No,No,One year,Yes,Mailed check,19.7,2302.0628607304266,No
 219,3976-NLDEZ,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.6,20.6,No
@@ -3248,7 +3248,7 @@
 246,1981-INRFU,Female,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.75,164.5,Yes
 247,4971-PUYQO,Female,No,No,No,27,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,94.55,2724.6,Yes
 248,3239-TPHPZ,Female,No,Yes,No,12,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Electronic check,20.05,264.55,No
-249,5115-GZDEL,Male,No,No,Yes,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),67.2,4671.7,No
+249,5115-GZDEL,Male,No,No,Yes,72,No,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),67.2,4671.7,No
 250,3338-CVVEH,Male,No,No,No,12,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,94.55,1173.55,No
 251,8485-GJCDN,Female,Yes,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.05,318.5,Yes
 252,2615-YVMYX,Male,Yes,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,107.5,7713.55,No
@@ -3262,8 +3262,8 @@
 260,2495-KZNFB,Female,No,No,No,33,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,90.65,2989.6,No
 261,1409-PHXTF,Male,Yes,Yes,No,54,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,110.45,6077.75,No
 262,4560-WQAQW,Female,No,No,No,59,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,One year,No,Bank transfer (automatic),68.7,4070.95,No
-263,9591-YVTEB,Male,Yes,No,No,55,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,44.85,2479.05,No
-264,9309-BZGNT,Male,Yes,Yes,No,69,No,No phone service,DSL,No,No,Yes,No,No,No,One year,Yes,Credit card (automatic),29.8,2134.3,No
+263,9591-YVTEB,Male,Yes,No,No,55,No,No,DSL,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,44.85,2479.05,No
+264,9309-BZGNT,Male,Yes,Yes,No,69,No,No,DSL,No,No,Yes,No,No,No,One year,Yes,Credit card (automatic),29.8,2134.3,No
 265,4274-DRSQT,Female,No,No,No,66,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),88.9,6000.1,No
 266,2027-DNKIV,Male,No,Yes,Yes,37,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Mailed check,58.75,2203.1,No
 267,8075-GXIUB,Male,Yes,Yes,No,9,Yes,No,No,No,No,No,No,No,No,One year,No,Credit card (automatic),19.85,183.15,No
@@ -3283,26 +3283,26 @@
 281,7399-QHBJS,Female,No,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Credit card (automatic),66.75,4760.3,No
 282,3049-SOLAY,Female,No,Yes,No,3,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.2,292.85,Yes
 283,0997-YTLNY,Female,No,No,Yes,19,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,48.8,953.65,No
-284,3317-HRTNN,Female,Yes,No,No,5,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,45.7,198.0,Yes
+284,3317-HRTNN,Female,Yes,No,No,5,No,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,45.7,198.0,Yes
 285,9479-HYNYL,Female,No,Yes,No,71,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),80.7,5705.05,No
 286,3235-ETOOB,Male,No,Yes,No,8,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.5,609.9,Yes
 287,9708-KFDBY,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),20.55,20.55,No
 288,8058-INTPH,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.65,79.65,Yes
 289,3642-GKTCT,Female,No,No,No,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,115.1,6993.65,No
-290,0774-RMNUW,Female,No,Yes,Yes,71,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),59.7,4122.65,No
+290,0774-RMNUW,Female,No,Yes,Yes,71,No,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),59.7,4122.65,No
 291,1334-PDUKM,Female,No,Yes,No,68,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,One year,No,Credit card (automatic),86.45,5762.95,No
-292,0756-MPZRL,Male,No,No,No,46,No,No phone service,DSL,No,No,Yes,Yes,No,No,One year,No,Credit card (automatic),33.7,1537.85,No
+292,0756-MPZRL,Male,No,No,No,46,No,No,DSL,No,No,Yes,Yes,No,No,One year,No,Credit card (automatic),33.7,1537.85,No
 293,2242-MFOTG,Male,No,No,No,33,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,One year,No,Bank transfer (automatic),80.1,2603.3,No
 294,2927-CVULT,Female,No,Yes,Yes,53,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),104.05,5566.4,No
 295,2144-BFDSO,Female,Yes,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),108.75,5431.9,No
-296,8745-PVESG,Female,No,No,No,57,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),41.1,2258.25,No
+296,8745-PVESG,Female,No,No,No,57,No,No,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),41.1,2258.25,No
 297,7647-GYYKX,Female,No,Yes,Yes,54,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Bank transfer (automatic),20.35,1092.35,No
 298,5647-FXOTP,Female,Yes,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.9,6401.25,No
 299,5569-OUICF,Female,Yes,Yes,No,28,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),101.3,2812.2,Yes
 300,8821-XNHVZ,Female,No,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,80.05,80.05,Yes
 301,2082-OJVTK,Male,No,Yes,Yes,29,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,89.2,2698.35,Yes
 302,9700-ISPUP,Female,No,Yes,Yes,10,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,65.5,616.9,No
-303,9839-ETQOE,Male,No,No,Yes,43,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,40.45,1912.85,No
+303,9839-ETQOE,Male,No,No,Yes,43,No,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,40.45,1912.85,No
 304,6078-VESFR,Male,Yes,Yes,No,13,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),70.45,849.1,No
 305,9027-TMATR,Female,No,Yes,No,43,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,78.8,3460.3,No
 306,5940-NFXKV,Male,No,Yes,Yes,19,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,83.65,1465.75,Yes
@@ -3313,7 +3313,7 @@
 311,8053-WWDRO,Female,No,Yes,No,6,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),19.5,146.3,Yes
 312,9564-KCLHR,Male,No,No,No,1,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,51.25,51.25,Yes
 313,1935-IMVBB,Male,No,Yes,No,56,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,89.7,4952.95,No
-314,2535-PBCGC,Female,No,Yes,No,70,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),64.55,4504.9,No
+314,2535-PBCGC,Female,No,Yes,No,70,No,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),64.55,4504.9,No
 315,2082-CEFLT,Male,No,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.6,45.6,Yes
 316,1470-PSXNM,Male,No,Yes,Yes,49,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,93.65,4520.15,No
 317,1213-NGCUN,Female,No,No,No,6,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),49.65,267.35,Yes
@@ -3328,26 +3328,26 @@
 326,5688-KZTSN,Male,No,Yes,Yes,15,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,20.0,288.05,Yes
 327,1270-XKUCC,Female,No,Yes,Yes,30,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,19.7,599.25,No
 328,0334-ZFJSR,Female,No,Yes,No,55,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),66.05,3462.1,No
-329,2894-QOJRX,Female,No,Yes,No,25,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),34.0,853.0,Yes
+329,2894-QOJRX,Female,No,Yes,No,25,No,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),34.0,853.0,Yes
 330,5747-PMBSQ,Male,Yes,Yes,No,10,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,92.5,934.1,Yes
-331,5583-EJXRD,Male,No,Yes,Yes,44,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),54.05,2375.2,No
+331,5583-EJXRD,Male,No,Yes,Yes,44,No,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),54.05,2375.2,No
 332,4565-EVZMJ,Female,No,No,No,47,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Mailed check,58.9,2813.05,No
 333,3143-JQEGI,Female,No,Yes,Yes,13,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,88.35,1222.8,Yes
 334,6386-SZZKH,Female,No,Yes,Yes,49,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),107.95,5293.2,Yes
 335,3327-YBAKM,Female,No,Yes,No,64,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,96.9,6314.35,No
 336,9441-QHEVC,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,19.1,19.1,No
 337,6705-LNMDD,Male,No,No,No,20,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,50.0,1003.05,No
-338,2580-ASVVY,Female,No,Yes,No,37,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,Two year,No,Electronic check,45.4,1593.1,No
+338,2580-ASVVY,Female,No,Yes,No,37,No,No,DSL,Yes,No,No,Yes,Yes,No,Two year,No,Electronic check,45.4,1593.1,No
 339,3370-GQEAL,Male,No,Yes,Yes,30,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,85.45,2509.95,No
 340,5032-USPKF,Female,No,No,No,38,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),84.1,3187.65,No
 341,2982-IHMFT,Female,Yes,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74.45,74.45,Yes
 342,3521-SYVOR,Female,No,No,No,37,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,64.75,2345.2,Yes
-343,4254-QPEDE,Female,No,Yes,No,52,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),66.25,3330.1,No
+343,4254-QPEDE,Female,No,Yes,No,52,No,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),66.25,3330.1,No
 344,6283-GITPX,Male,No,No,Yes,71,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),76.9,5522.7,No
 345,9526-JAWYF,Male,No,No,No,26,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,89.8,2335.3,Yes
 346,0771-CHWSK,Male,No,No,No,66,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),74.6,4798.4,No
 347,9788-HNGUT,Male,No,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116.95,8594.4,No
-348,9495-REDIY,Male,No,No,Yes,25,No,No phone service,DSL,Yes,No,No,No,Yes,No,One year,Yes,Credit card (automatic),40.65,970.55,No
+348,9495-REDIY,Male,No,No,Yes,25,No,No,DSL,Yes,No,No,No,Yes,No,One year,Yes,Credit card (automatic),40.65,970.55,No
 349,5375-XLDOF,Male,No,Yes,Yes,69,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),114.35,7665.8,No
 350,1172-VIYBP,Male,No,Yes,Yes,53,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Two year,No,Bank transfer (automatic),69.7,3686.05,No
 351,5649-VUKMC,Female,No,No,No,12,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Mailed check,95.5,1115.15,Yes
@@ -3355,10 +3355,10 @@
 353,8992-OBVDG,Male,No,No,No,21,Yes,No,DSL,No,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,61.65,1393.6,No
 354,4273-MBHYA,Female,No,No,Yes,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.35,89.35,No
 355,4724-WXVWF,Male,No,No,No,48,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,95.4,4445.3,No
-356,5701-GUXDC,Female,No,Yes,No,26,No,No phone service,DSL,Yes,No,Yes,No,No,No,One year,No,Credit card (automatic),35.4,978.6,No
+356,5701-GUXDC,Female,No,Yes,No,26,No,No,DSL,Yes,No,Yes,No,No,No,One year,No,Credit card (automatic),35.4,978.6,No
 357,1460-UZPRJ,Male,No,Yes,No,60,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,19.95,1258.15,No
 358,6082-GLJIX,Male,No,No,No,18,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,19.25,331.35,No
-359,5143-EGQFK,Female,Yes,No,No,10,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,29.65,291.4,Yes
+359,5143-EGQFK,Female,Yes,No,No,10,No,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,29.65,291.4,Yes
 360,4919-IKATY,Male,No,Yes,Yes,5,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,84.5,453.75,Yes
 361,2495-TTHBQ,Female,No,No,Yes,4,Yes,No,No,No,No,No,No,No,No,One year,Yes,Mailed check,20.4,84.75,No
 362,0485-ZBSLN,Male,No,Yes,Yes,65,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),24.75,1715.1,No
@@ -3381,17 +3381,17 @@
 379,6284-KMNUF,Female,No,Yes,No,56,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Electronic check,98.0,5270.6,No
 380,9689-PTNPG,Male,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.25,144.55,Yes
 381,9465-RWMXL,Male,No,Yes,No,32,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,78.9,2447.95,Yes
-382,6229-UOLQL,Male,No,Yes,Yes,56,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Mailed check,52.0,2884.9,No
+382,6229-UOLQL,Male,No,Yes,Yes,56,No,No,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Mailed check,52.0,2884.9,No
 383,2362-IBOOY,Male,No,No,No,36,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.75,3050.15,Yes
 384,3137-LUPIX,Female,No,No,No,4,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,64.4,253.0,No
 385,0843-WTBXE,Male,No,No,No,53,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),85.45,4517.25,Yes
 386,6143-JQKEA,Male,No,No,No,10,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),45.8,436.2,No
-387,8676-OOQEJ,Male,No,No,No,4,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,30.5,118.4,No
+387,8676-OOQEJ,Male,No,No,No,4,No,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,30.5,118.4,No
 388,5515-IDEJJ,Male,No,Yes,Yes,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,19.9,19.9,Yes
 389,9701-CDXHR,Female,No,Yes,No,51,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,69.15,3649.6,No
 390,7450-NWRTR,Male,Yes,No,No,12,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.45,1200.15,Yes
-391,8124-NZVGJ,Female,No,No,No,6,No,No phone service,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,49.25,255.6,No
-392,2162-FRZAA,Male,No,Yes,Yes,63,No,No phone service,DSL,No,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),39.35,2395.05,No
+391,8124-NZVGJ,Female,No,No,No,6,No,No,DSL,No,No,No,Yes,Yes,Yes,One year,Yes,Mailed check,49.25,255.6,No
+392,2162-FRZAA,Male,No,Yes,Yes,63,No,No,DSL,No,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),39.35,2395.05,No
 393,5376-DEQCP,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.6,70.6,Yes
 394,5118-MUEYH,Female,No,Yes,No,48,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),105.1,5083.55,No
 395,9095-HFAFX,Female,No,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),81.0,389.6,Yes
@@ -3410,7 +3410,7 @@
 408,6407-GSJNL,Female,No,No,No,51,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),24.95,1288.0,No
 409,6005-OBZPH,Female,Yes,No,No,26,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,89.15,2277.65,Yes
 410,4049-ZPALD,Female,No,Yes,No,64,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),99.0,6375.8,No
-411,7932-WPTDS,Female,Yes,Yes,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.8,24.8,Yes
+411,7932-WPTDS,Female,Yes,Yes,No,1,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.8,24.8,Yes
 412,3733-UOCWF,Male,Yes,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),85.55,5251.75,No
 413,6833-JMZYP,Female,No,No,No,15,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),94.0,1505.45,No
 414,2722-VOJQL,Male,No,No,No,64,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),105.65,6903.1,Yes
@@ -3455,7 +3455,7 @@
 453,4012-YCFAI,Male,No,Yes,No,60,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Mailed check,61.35,3766.2,No
 454,2506-TNFCO,Female,Yes,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.55,69.55,Yes
 455,9970-QBCDA,Female,No,No,No,6,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),19.7,129.55,No
-456,8718-PTMEZ,Female,No,No,No,13,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,31.05,347.25,Yes
+456,8718-PTMEZ,Female,No,No,No,13,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,31.05,347.25,Yes
 457,9496-IVVRP,Female,No,Yes,Yes,11,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),51.0,581.7,No
 458,2207-OBZNX,Male,No,No,No,7,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,51.0,354.05,Yes
 459,2657-VPXTA,Female,No,Yes,Yes,10,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,88.85,929.45,No
@@ -3488,7 +3488,7 @@
 486,7609-YBPXG,Male,No,No,No,54,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),87.1,4735.2,No
 487,5519-TEEUH,Male,No,No,Yes,33,Yes,No,No,No,No,No,No,No,No,One year,Yes,Mailed check,20.15,682.15,No
 488,7856-GANIL,Male,Yes,Yes,No,45,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,Yes,Bank transfer (automatic),98.7,4525.8,No
-489,0804-XBFBV,Female,No,No,Yes,11,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.2,321.05,No
+489,0804-XBFBV,Female,No,No,Yes,11,No,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.2,321.05,No
 490,2676-OXPPQ,Male,No,No,No,6,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),55.7,335.65,No
 491,3703-TTEPD,Male,No,No,No,21,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,No,Bank transfer (automatic),65.35,1424.4,No
 492,2799-TSLAG,Female,No,Yes,Yes,65,Yes,Yes,No,No,No,No,No,No,No,Two year,Yes,Bank transfer (automatic),25.3,1748.55,No
@@ -3496,15 +3496,15 @@
 494,8837-VVWLQ,Female,No,No,No,8,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,84.95,668.4,Yes
 495,2696-NARTR,Male,No,No,No,11,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,73.85,926.25,Yes
 496,2208-NKVVH,Male,No,Yes,Yes,43,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Mailed check,24.25,1077.95,No
-497,7614-QVWQL,Male,No,Yes,Yes,49,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),51.8,2541.25,Yes
+497,7614-QVWQL,Male,No,Yes,Yes,49,No,No,DSL,No,Yes,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),51.8,2541.25,Yes
 498,1976-CFOCS,Female,Yes,Yes,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,46.0,46.0,Yes
 499,4631-OACRM,Male,Yes,No,No,15,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.4,1156.1,Yes
 500,7139-JZFVG,Male,No,Yes,Yes,60,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Bank transfer (automatic),60.5,3694.45,No
-501,4987-GQWPO,Male,No,No,No,17,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),25.1,382.8,No
+501,4987-GQWPO,Male,No,No,No,17,No,No,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),25.1,382.8,No
 502,3755-JBMNH,Male,Yes,Yes,No,16,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),71.8,1167.8,Yes
 503,1757-TCATG,Male,No,Yes,Yes,35,Yes,No,No,No,No,No,No,No,No,One year,No,Bank transfer (automatic),20.05,746.75,No
 504,6345-ULYRW,Male,Yes,Yes,No,44,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,No,Mailed check,88.4,3912.9,Yes
-505,4776-XSKYQ,Female,No,Yes,Yes,12,No,No phone service,DSL,No,No,No,Yes,No,No,One year,No,Credit card (automatic),30.25,368.85,No
+505,4776-XSKYQ,Female,No,Yes,Yes,12,No,No,DSL,No,No,No,Yes,No,No,One year,No,Credit card (automatic),30.25,368.85,No
 506,8048-DSDFQ,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.2,20.2,No
 507,5753-QQWPW,Female,No,No,No,28,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Electronic check,59.9,1654.7,No
 508,6010-DDPPW,Male,No,Yes,No,70,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),25.15,1940.85,No
@@ -3530,12 +3530,12 @@
 528,9127-QRZMH,Male,No,Yes,No,44,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),59.85,2603.95,No
 529,5919-VCZYM,Male,No,No,No,2,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.05,42.7,No
 530,9644-KVCNC,Female,No,No,No,66,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),92.15,6056.9,No
-531,2137-DQMEV,Male,No,Yes,Yes,68,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,One year,No,Mailed check,44.8,2983.65,No
+531,2137-DQMEV,Male,No,Yes,Yes,68,No,No,DSL,Yes,Yes,No,No,Yes,No,One year,No,Mailed check,44.8,2983.65,No
 532,8174-LNWMW,Female,No,No,No,31,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),20.9,689.35,No
 533,9279-CJEOJ,Female,Yes,No,No,21,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.4,2025.1,No
 534,7964-VEXDG,Male,No,No,Yes,21,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,80.35,1747.2,No
 535,2404-JIBFC,Female,No,Yes,Yes,55,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),85.1,4657.95,No
-536,0778-NELLA,Male,No,No,No,9,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),34.7,296.1,Yes
+536,0778-NELLA,Male,No,No,No,9,No,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),34.7,296.1,Yes
 537,8029-XYPWT,Male,Yes,Yes,No,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),115.05,8016.6,No
 538,4614-NUVZD,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,81.1,81.1,Yes
 539,4632-PAOYU,Male,No,Yes,Yes,22,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,19.95,433.5,No
@@ -3545,7 +3545,7 @@
 543,6646-JPPHA,Female,Yes,No,No,14,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,78.85,1043.8,No
 544,9572-MTILT,Male,No,Yes,No,59,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,106.75,6252.9,Yes
 545,7658-UYUQS,Male,Yes,Yes,No,21,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Bank transfer (automatic),86.55,1857.25,No
-546,7880-XSOJX,Male,No,No,No,4,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,42.4,146.4,No
+546,7880-XSOJX,Male,No,No,No,4,No,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,42.4,146.4,No
 547,9611-CTWIH,Female,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.45,240.45,Yes
 548,4589-IUAJB,Male,No,Yes,No,70,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),24.25,1724.15,No
 549,0329-GTIAJ,Female,No,No,No,3,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,97.9,315.3,Yes
@@ -3558,13 +3558,13 @@
 556,5364-EVNIB,Male,No,No,No,13,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,79.8,973.45,Yes
 557,6918-UMQCG,Female,No,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,80.2,384.25,No
 558,0675-NCDYU,Female,No,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),116.4,8543.25,No
-559,6339-DKLMK,Female,No,No,No,13,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,31.65,389.95,No
+559,6339-DKLMK,Female,No,No,No,13,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,31.65,389.95,No
 560,1346-PJWTK,Male,No,Yes,No,61,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),94.15,5731.85,No
 561,5088-QZLRL,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,20.65,20.65,No
 562,8023-QHAIO,Female,Yes,Yes,No,56,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),76.85,4275.75,No
 563,4397-FRLTA,Female,No,No,No,4,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.15,84.5,No
 564,3057-VJJQE,Male,No,No,No,35,Yes,Yes,DSL,Yes,No,No,No,No,No,Two year,No,Mailed check,55.25,1924.1,No
-565,5087-SUURX,Female,No,Yes,No,18,No,No phone service,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,39.05,669.85,Yes
+565,5087-SUURX,Female,No,Yes,No,18,No,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,39.05,669.85,Yes
 566,2302-OUZXB,Male,No,Yes,No,72,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),82.15,5784.3,No
 567,8133-ANHHJ,Female,Yes,No,No,49,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),103.0,5166.2,No
 568,2270-CHBFN,Female,No,Yes,No,44,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),95.1,4060.55,No
@@ -3600,13 +3600,13 @@
 598,6051-PTVNS,Female,No,Yes,Yes,55,Yes,No,No,No,No,No,No,No,No,One year,No,Credit card (automatic),19.15,998.1,No
 599,2344-JMOGN,Male,No,Yes,No,9,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,94.85,890.6,Yes
 600,3799-ISUZQ,Male,No,Yes,Yes,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.95,529.5,Yes
-601,2877-VDUER,Female,No,Yes,Yes,35,No,No phone service,DSL,No,No,No,Yes,Yes,No,One year,No,Mailed check,40.9,1383.6,No
+601,2877-VDUER,Female,No,Yes,Yes,35,No,No,DSL,No,No,No,Yes,Yes,No,One year,No,Mailed check,40.9,1383.6,No
 602,9152-AMKAK,Male,No,No,No,6,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,80.25,493.4,No
 603,1794-HBQTJ,Female,No,No,No,1,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),48.6,48.6,Yes
 604,9432-VOFYX,Male,No,No,No,17,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.8,1207.0,No
 605,8049-WJCLQ,Male,No,Yes,Yes,10,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Mailed check,60.2,563.5,No
 606,6586-PSJOX,Male,No,No,Yes,15,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,No,Credit card (automatic),55.2,864.55,No
-607,2460-FPSYH,Female,Yes,No,No,40,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,55.8,2109.35,Yes
+607,2460-FPSYH,Female,Yes,No,No,40,No,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,55.8,2109.35,Yes
 608,9705-ZJBCG,Female,No,Yes,Yes,13,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),54.15,701.05,No
 609,4818-DRBQT,Male,No,Yes,No,29,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80.15,2265.25,Yes
 610,1320-HTRDR,Female,No,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.5,220.6,Yes
@@ -3630,12 +3630,12 @@
 628,6821-BUXUX,Female,No,No,No,13,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,96.65,1244.5,Yes
 629,5028-HTLJB,Male,Yes,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.05,20.05,Yes
 630,9801-GDWGV,Female,No,No,No,39,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,103.45,3994.45,Yes
-631,6542-LWGXJ,Male,No,Yes,No,3,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25.0,78.25,No
+631,6542-LWGXJ,Male,No,Yes,No,3,No,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25.0,78.25,No
 632,5567-GZKQY,Male,No,No,No,58,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),20.3,1131.5,No
 633,1222-LRYKO,Male,No,No,Yes,6,Yes,Yes,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,26.35,184.05,No
 634,2320-JRSDE,Female,No,Yes,Yes,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,19.9,19.9,Yes
 635,2087-QAREY,Female,No,Yes,No,22,Yes,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,54.7,1178.75,No
-636,0601-WZHJF,Male,No,Yes,No,14,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,46.35,667.7,Yes
+636,0601-WZHJF,Male,No,Yes,No,14,No,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,46.35,667.7,Yes
 637,4423-JWZJN,Male,No,Yes,Yes,64,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,One year,No,Credit card (automatic),90.25,5629.15,No
 638,5143-WMWOG,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,19.95,19.95,Yes
 639,6490-FGZAT,Male,No,No,No,6,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.65,109.3,No
@@ -3647,7 +3647,7 @@
 645,4942-VZZOM,Male,No,Yes,No,64,Yes,Yes,DSL,Yes,No,No,No,Yes,No,One year,Yes,Credit card (automatic),66.15,4392.5,No
 646,5510-BOIUJ,Male,No,No,Yes,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,19.25,19.25,Yes
 647,7502-BNYGS,Female,No,Yes,No,46,Yes,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),69.1,3168.0,No
-648,4291-HYEBC,Female,Yes,Yes,Yes,28,No,No phone service,DSL,No,Yes,No,No,No,Yes,One year,Yes,Electronic check,39.1,1096.6,No
+648,4291-HYEBC,Female,Yes,Yes,Yes,28,No,No,DSL,No,Yes,No,No,No,Yes,One year,Yes,Electronic check,39.1,1096.6,No
 649,6147-CBCRA,Female,No,Yes,No,33,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.05,669.45,No
 650,6047-SUHPR,Male,No,Yes,Yes,39,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,No,Electronic check,59.8,2343.85,No
 651,4471-KXAUH,Female,No,Yes,No,42,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,84.3,3588.4,Yes
@@ -3664,8 +3664,8 @@
 662,3244-DCJWY,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.25,70.25,Yes
 663,2824-MYYBN,Female,No,Yes,Yes,37,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.25,3314.15,No
 664,0875-CABNR,Female,Yes,No,No,10,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),84.6,865.55,Yes
-665,6345-HOVES,Male,No,No,No,34,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),25.05,852.7,No
-666,8318-LCNBW,Male,No,Yes,No,35,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),53.15,1930.9,No
+665,6345-HOVES,Male,No,No,No,34,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),25.05,852.7,No
+666,8318-LCNBW,Male,No,Yes,No,35,No,No,DSL,Yes,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),53.15,1930.9,No
 667,6469-QJKZW,Female,No,Yes,No,4,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,20.15,91.4,No
 668,0147-ESWWR,Female,Yes,Yes,No,39,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101.25,3949.15,No
 669,1217-VASWC,Male,Yes,Yes,No,43,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),100.55,4304.0,No
@@ -3673,7 +3673,7 @@
 671,6370-ZVHDV,Female,No,Yes,No,61,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),25.3,1554.9,No
 672,5915-DGNVC,Female,No,Yes,No,49,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Electronic check,71.8,3472.05,No
 673,6260-XLACS,Male,No,No,No,4,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,19.7,117.8,No
-674,3566-CAAYU,Female,No,Yes,Yes,64,No,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,Two year,No,Electronic check,49.85,3210.35,No
+674,3566-CAAYU,Female,No,Yes,Yes,64,No,No,DSL,No,Yes,Yes,Yes,No,Yes,Two year,No,Electronic check,49.85,3210.35,No
 675,4983-CCWMC,Male,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.6,207.4,No
 676,9103-CXVOK,Male,No,Yes,Yes,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,19.75,19.75,No
 677,2896-TBNBE,Male,No,Yes,No,40,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,One year,No,Electronic check,80.8,3132.75,No
@@ -3681,15 +3681,15 @@
 679,5229-PRWKT,Male,No,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,86.55,649.65,Yes
 680,6982-UQZLY,Female,Yes,Yes,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,20.85,20.85,Yes
 681,2522-WLNSF,Female,Yes,Yes,No,34,Yes,No,DSL,No,No,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),64.2,2106.3,No
-682,3841-CONLJ,Female,No,Yes,No,1,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,35.0,35.0,No
-683,5057-LCOUI,Female,No,No,No,39,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.75,2011.4,Yes
+682,3841-CONLJ,Female,No,Yes,No,1,No,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,35.0,35.0,No
+683,5057-LCOUI,Female,No,No,No,39,No,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.75,2011.4,Yes
 684,0193-ESZXP,Female,Yes,Yes,No,58,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),105.5,6205.5,Yes
 685,4475-NVTLU,Male,No,Yes,Yes,45,Yes,No,No,No,No,No,No,No,No,Two year,No,Electronic check,19.2,903.7,No
 686,4369-HTUIF,Male,Yes,No,No,6,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),85.15,503.6,Yes
 687,9386-LDCZR,Male,No,No,No,43,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),90.65,3882.3,No
 688,9585-KKMFD,Male,No,Yes,Yes,41,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,20.0,879.8,No
 689,5399-ZIMKF,Male,No,No,No,5,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74.65,383.65,No
-690,0336-KXKFK,Male,No,No,No,72,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),61.2,4390.25,No
+690,0336-KXKFK,Male,No,No,No,72,No,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),61.2,4390.25,No
 691,5619-XZZKR,Male,No,No,No,4,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,19.95,68.2,No
 692,3948-FVVRP,Male,No,Yes,Yes,9,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,54.8,452.8,No
 693,5327-XOKKY,Male,Yes,Yes,No,72,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),73.45,5329.0,No
@@ -3716,7 +3716,7 @@
 714,6108-OQZDQ,Female,No,Yes,Yes,4,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,97.95,384.5,Yes
 715,0363-QJVFX,Male,No,No,No,32,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),108.15,3432.9,Yes
 716,8903-XEBGX,Male,No,No,Yes,2,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55.3,108.65,No
-717,8169-SAEJD,Male,Yes,Yes,No,69,No,No phone service,DSL,Yes,Yes,No,No,Yes,Yes,Two year,No,Credit card (automatic),56.55,3952.65,No
+717,8169-SAEJD,Male,Yes,Yes,No,69,No,No,DSL,Yes,Yes,No,No,Yes,Yes,Two year,No,Credit card (automatic),56.55,3952.65,No
 718,9840-DVNDC,Male,No,No,No,6,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),80.5,463.05,Yes
 719,1089-XZWHH,Female,No,Yes,Yes,24,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,19.7,494.05,No
 720,2325-WINES,Female,No,No,No,32,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),104.05,3416.85,No
@@ -3739,7 +3739,7 @@
 737,7989-VCQOH,Male,No,Yes,Yes,18,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,83.25,1611.15,No
 738,5049-GLYVG,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.6,20.6,Yes
 739,4199-QHJNM,Male,Yes,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),102.9,6989.7,No
-740,8882-TLVRW,Male,No,Yes,Yes,69,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,39.1,2779.5,No
+740,8882-TLVRW,Male,No,Yes,Yes,69,No,No,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,39.1,2779.5,No
 741,5883-GTGVD,Male,No,No,No,19,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.95,1931.75,Yes
 742,5135-GRQJV,Male,Yes,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,114.5,8331.95,No
 743,2384-OVPSA,Female,Yes,No,No,38,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,20.2,735.9,No
@@ -3760,7 +3760,7 @@
 758,5847-MXBEO,Male,No,No,No,22,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,20.3,475.1,No
 759,9985-MWVIX,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.15,70.15,Yes
 760,4583-PARNH,Male,Yes,Yes,No,16,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,91.55,1540.05,No
-761,1116-FRYVH,Female,No,Yes,Yes,48,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,39.4,1978.65,No
+761,1116-FRYVH,Female,No,Yes,Yes,48,No,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,39.4,1978.65,No
 762,1421-HCERK,Male,Yes,Yes,No,30,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),105.7,3181.8,No
 763,9633-XQABV,Female,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.25,229.7,No
 764,0716-BQNDX,Male,Yes,No,No,57,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,Two year,No,Electronic check,93.75,5625.55,No
@@ -3787,18 +3787,18 @@
 785,0506-YLVKJ,Male,No,Yes,Yes,46,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,20.2,917.45,No
 786,8661-BOYNW,Female,No,Yes,No,72,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),84.4,6096.45,No
 787,6711-VTNRE,Female,No,No,No,36,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,87.55,3078.1,Yes
-788,4815-GBTCD,Female,No,Yes,No,4,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25.15,99.95,No
+788,4815-GBTCD,Female,No,Yes,No,4,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25.15,99.95,No
 789,2805-AUFQN,Female,No,No,No,25,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),19.8,475.2,No
-790,0980-PVMRC,Female,No,Yes,Yes,40,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.85,2036.55,No
+790,0980-PVMRC,Female,No,Yes,Yes,40,No,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.85,2036.55,No
 791,7233-DRTRF,Male,No,Yes,No,63,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,102.4,6444.05,No
 792,3500-RMZLT,Female,Yes,No,No,15,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,96.3,1426.75,Yes
 793,3873-NFTGI,Male,No,No,No,14,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),55.5,767.55,No
 794,1162-ECVII,Male,Yes,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),109.75,7932.5,No
 795,7048-GXDAY,Male,No,No,No,39,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,106.4,4040.65,No
-796,8571-ZCMCX,Female,No,Yes,Yes,47,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),60.0,2768.65,No
+796,8571-ZCMCX,Female,No,Yes,Yes,47,No,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),60.0,2768.65,No
 797,1169-WCVAK,Male,No,Yes,No,19,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),88.8,1672.35,No
 798,4548-SDBKE,Female,No,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.2,474.8,Yes
-799,8066-POXGX,Female,No,No,No,13,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35.1,446.1,Yes
+799,8066-POXGX,Female,No,No,No,13,No,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35.1,446.1,Yes
 800,7129-CAKJW,Female,No,No,No,17,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),80.05,1345.65,No
 801,8695-ARGXZ,Male,Yes,Yes,No,34,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.55,2425.4,No
 802,3570-YUEKJ,Female,No,No,No,42,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,49.55,2077.95,No
@@ -3828,19 +3828,19 @@
 826,9507-EXLTT,Female,No,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),79.35,79.35,Yes
 827,3161-GETRM,Male,No,Yes,Yes,34,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),90.05,3097.0,No
 828,0402-OAMEN,Female,No,Yes,Yes,72,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),24.45,1709.1,No
-829,6933-VLYFX,Male,No,Yes,Yes,31,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,59.95,1848.8,No
+829,6933-VLYFX,Male,No,Yes,Yes,31,No,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,59.95,1848.8,No
 830,6754-WKSHP,Male,No,No,Yes,30,Yes,Yes,No,No,No,No,No,No,No,One year,No,Bank transfer (automatic),25.35,723.3,No
 831,9846-GKXAS,Female,No,No,No,9,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),90.8,809.75,Yes
 832,6017-PPLPX,Male,No,Yes,Yes,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.45,1470.95,Yes
-833,4976-LNFVV,Male,Yes,Yes,No,19,No,No phone service,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),34.3,577.15,No
+833,4976-LNFVV,Male,Yes,Yes,No,19,No,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),34.3,577.15,No
 834,5055-MGMGF,Female,No,Yes,No,65,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.05,6914.95,No
 835,4641-FROLU,Female,No,Yes,Yes,30,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,19.3,602.9,No
 836,2862-JVEOY,Male,No,No,No,6,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,19.15,124.4,No
-837,2969-QWUBZ,Female,No,No,No,2,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,51.4,96.8,No
+837,2969-QWUBZ,Female,No,No,No,2,No,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,51.4,96.8,No
 838,9822-BIIGN,Male,No,Yes,Yes,53,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Electronic check,71.85,3827.9,No
 839,2077-MPJQO,Male,Yes,Yes,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.4,533.05,No
 840,1534-OULXE,Female,No,Yes,Yes,61,Yes,No,DSL,Yes,No,No,No,No,No,One year,Yes,Bank transfer (automatic),49.7,2961.4,No
-841,7136-RVDTZ,Male,Yes,No,No,70,No,No phone service,DSL,No,No,No,No,Yes,Yes,One year,Yes,Electronic check,45.25,3264.45,Yes
+841,7136-RVDTZ,Male,Yes,No,No,70,No,No,DSL,No,No,No,No,Yes,Yes,One year,Yes,Electronic check,45.25,3264.45,Yes
 842,2971-SGAFL,Female,No,No,No,13,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,78.75,995.35,No
 843,1480-IVEVR,Male,Yes,Yes,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,One year,Yes,Bank transfer (automatic),81.6,2815.25,No
 844,2905-KFQUV,Female,No,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70.4,154.8,No
@@ -3879,18 +3879,18 @@
 877,6777-TGHTM,Female,No,No,No,53,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),106.95,5785.5,Yes
 878,8909-BOLNL,Male,No,No,No,3,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,21.2,52.05,No
 879,6603-YRDCJ,Male,No,Yes,No,33,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Mailed check,61.05,2018.4,No
-880,3538-WZPHD,Male,No,No,No,3,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,29.6,79.45,Yes
+880,3538-WZPHD,Male,No,No,No,3,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,29.6,79.45,Yes
 881,3229-USWAR,Female,No,No,No,34,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),79.95,2727.3,No
 882,2138-VFAPZ,Female,No,Yes,Yes,14,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,19.7,263.65,No
 883,6131-JLWZM,Female,No,No,No,13,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,20.3,275.4,No
-884,4785-QRJHC,Male,Yes,Yes,No,46,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),59.9,2816.65,Yes
+884,4785-QRJHC,Male,Yes,Yes,No,46,No,No,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),59.9,2816.65,Yes
 885,0269-XFESX,Male,No,Yes,Yes,23,Yes,Yes,No,No,No,No,No,No,No,One year,No,Mailed check,24.35,538.5,No
 886,1709-EJDOX,Female,No,Yes,Yes,47,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,19.75,948.9,No
 887,4316-XCSLJ,Male,No,No,Yes,17,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,50.3,846.8,No
 888,8610-WFCJF,Female,No,Yes,Yes,49,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.6,4783.5,Yes
-889,9693-XMUOB,Male,Yes,Yes,No,59,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.25,2997.45,No
+889,9693-XMUOB,Male,Yes,Yes,No,59,No,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.25,2997.45,No
 890,0383-CLDDA,Female,No,No,No,69,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),85.35,5897.4,No
-891,4905-JEFDW,Male,No,No,No,11,No,No phone service,DSL,No,No,Yes,No,Yes,No,One year,Yes,Electronic check,41.6,470.6,Yes
+891,4905-JEFDW,Male,No,No,No,11,No,No,DSL,No,No,Yes,No,Yes,No,One year,Yes,Electronic check,41.6,470.6,Yes
 892,2709-UQGNP,Male,No,No,No,10,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,51.65,524.5,No
 893,3549-ZTMNH,Male,No,Yes,Yes,12,Yes,Yes,No,No,No,No,No,No,No,Two year,Yes,Bank transfer (automatic),24.0,269.65,No
 894,7881-INRLC,Male,No,No,No,45,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100.85,4740.0,Yes
@@ -3899,7 +3899,7 @@
 897,0562-HKHML,Male,No,Yes,Yes,71,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),23.9,1626.4,No
 898,8277-RVRSV,Female,No,Yes,Yes,33,Yes,Yes,No,No,No,No,No,No,No,One year,No,Credit card (automatic),24.15,800.3,No
 899,9943-VSZUV,Male,Yes,No,No,67,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,75.7,5060.85,No
-900,0117-LFRMW,Male,No,Yes,Yes,37,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),40.2,1448.8,Yes
+900,0117-LFRMW,Male,No,Yes,Yes,37,No,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),40.2,1448.8,Yes
 901,6172-FECYY,Male,No,Yes,Yes,49,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,84.5,4254.85,Yes
 902,7054-ENNGU,Female,No,Yes,No,9,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,50.85,466.6,No
 903,1455-HFBXA,Male,No,Yes,No,52,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),91.6,4627.8,No
@@ -3910,7 +3910,7 @@
 908,4786-UKSNZ,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.2,20.2,Yes
 909,5343-SGUBI,Female,No,No,No,52,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Mailed check,80.2,4297.6,No
 910,0856-NAOES,Male,No,No,No,6,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Mailed check,60.9,414.1,No
-911,1976-AZZPJ,Male,No,Yes,No,7,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,34.2,256.6,No
+911,1976-AZZPJ,Male,No,Yes,No,7,No,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,34.2,256.6,No
 912,7248-VZQLC,Female,Yes,No,No,47,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),85.2,3969.35,Yes
 913,6156-UZDLF,Female,No,No,No,26,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),87.15,2274.1,No
 914,3099-OONVS,Male,No,Yes,Yes,25,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,54.3,1296.8,No
@@ -3938,35 +3938,35 @@
 936,9418-RUKPH,Female,No,Yes,Yes,38,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,19.95,756.4,No
 937,5383-MMTWC,Female,Yes,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.0,613.4,Yes
 938,9971-ZWPBF,Male,Yes,Yes,Yes,34,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,108.9,3625.2,No
-939,4712-AUQZO,Male,No,No,No,18,No,No phone service,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,33.6,550.35,No
+939,4712-AUQZO,Male,No,No,No,18,No,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,33.6,550.35,No
 940,9711-FJTBX,Male,No,Yes,Yes,56,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,One year,Yes,Mailed check,85.85,4793.8,No
-941,2908-ZTPNF,Female,No,No,No,36,No,No phone service,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),34.85,1267.2,No
-942,7240-ETPTR,Female,No,Yes,No,9,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,48.75,442.2,Yes
+941,2908-ZTPNF,Female,No,No,No,36,No,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),34.85,1267.2,No
+942,7240-ETPTR,Female,No,Yes,No,9,No,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,48.75,442.2,Yes
 943,2202-CUYXZ,Male,No,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,84.85,84.85,Yes
 944,5995-OIGLP,Male,No,No,No,12,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,56.65,654.85,Yes
 945,8421-WZOOW,Female,Yes,Yes,Yes,57,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),95.3,5567.45,No
 946,6261-RCVNS,Female,No,No,No,42,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),73.9,3160.55,Yes
 947,7951-QKZPL,Female,No,Yes,Yes,33,Yes,Yes,No,No,No,No,No,No,No,Two year,Yes,Mailed check,24.5,740.3,Yes
 948,1414-YADCW,Male,No,Yes,No,70,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),84.6,5706.2,No
-949,8756-RDDLT,Female,No,No,No,68,No,No phone service,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,44.95,3085.35,No
-950,2862-PFNIK,Male,No,No,Yes,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.7,24.7,No
+949,8756-RDDLT,Female,No,No,No,68,No,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,44.95,3085.35,No
+950,2862-PFNIK,Male,No,No,Yes,1,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.7,24.7,No
 951,5816-QVHRX,Female,No,No,No,37,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),100.3,3541.4,No
 952,4430-YHXGG,Female,No,No,Yes,4,Yes,Yes,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25.45,84.2,No
 953,6888-SBYAI,Male,No,No,No,1,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,50.7,50.7,No
-954,7395-XWZOY,Male,No,No,No,20,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),55.0,1165.55,No
+954,7395-XWZOY,Male,No,No,No,20,No,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),55.0,1165.55,No
 955,7169-YWAMK,Male,No,Yes,Yes,72,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),68.4,4855.35,No
 956,3640-PHQXK,Female,No,No,No,31,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,89.9,2806.9,Yes
 957,6877-LGWXO,Male,Yes,Yes,No,18,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,78.55,1422.65,Yes
 958,6859-RKMZJ,Male,No,Yes,No,11,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),55.05,608.15,No
 959,2729-VNVAP,Female,No,Yes,Yes,33,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),19.8,641.35,No
 960,2957-JIRMN,Female,Yes,No,No,62,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,One year,No,Electronic check,84.45,4959.15,No
-961,2049-BAFNW,Female,No,No,No,1,No,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,35.9,35.9,No
+961,2049-BAFNW,Female,No,No,No,1,No,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,35.9,35.9,No
 962,3842-QTGDL,Male,No,Yes,No,16,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),80.75,1321.3,No
 963,7163-OCEQI,Male,No,Yes,Yes,22,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,78.65,1663.75,No
 964,9782-LGXMC,Female,No,Yes,Yes,49,Yes,No,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),61.75,3024.15,No
 965,5975-BAICR,Male,No,Yes,Yes,36,Yes,No,DSL,Yes,No,Yes,No,No,Yes,One year,Yes,Credit card (automatic),63.7,2188.5,No
 966,8019-ENHXU,Male,No,Yes,No,42,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,99.45,4138.05,Yes
-967,5167-GBFRE,Male,Yes,No,No,4,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),25.2,102.5,Yes
+967,5167-GBFRE,Male,Yes,No,No,4,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),25.2,102.5,Yes
 968,9033-EOXWV,Female,No,No,No,12,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,One year,No,Mailed check,74.05,872.65,Yes
 969,4673-KKSLS,Female,No,No,No,31,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,87.6,2724.25,No
 970,4853-OITSN,Male,No,Yes,No,5,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,89.15,413.25,No
@@ -3975,14 +3975,14 @@
 973,2324-EFHVG,Male,No,No,No,64,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),104.4,6692.65,No
 974,7094-MSZAO,Male,No,Yes,Yes,10,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),20.05,218.5,No
 975,1522-VVDMG,Male,No,Yes,Yes,7,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,89.75,608.8,Yes
-976,6907-CQGPN,Male,No,No,No,29,No,No phone service,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,34.3,1004.75,No
+976,6907-CQGPN,Male,No,No,No,29,No,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,34.3,1004.75,No
 977,0780-XNZFN,Male,No,No,No,57,Yes,No,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),20.65,1125.6,No
 978,0239-OXEXL,Female,No,No,No,46,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,84.25,3847.6,No
 979,2675-IJRGJ,Male,No,No,No,53,Yes,No,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),19.65,978.0,No
 980,7049-GKVZY,Female,No,No,No,17,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,One year,No,Credit card (automatic),79.85,1387.35,No
 981,8577-QSOCG,Female,No,Yes,Yes,38,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,20.2,746.05,No
 982,3721-CNZHX,Male,No,No,No,15,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,19.8,304.6,No
-983,0212-ISBBF,Female,No,No,No,22,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.35,1098.85,No
+983,0212-ISBBF,Female,No,No,No,22,No,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.35,1098.85,No
 984,9185-TQCVP,Male,No,Yes,No,14,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85.15,1139.2,Yes
 985,3585-YNADK,Female,No,Yes,No,57,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),74.6,4368.95,No
 986,5271-DBYSJ,Male,Yes,No,No,11,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),79.15,827.7,No
@@ -4000,13 +4000,13 @@
 998,0442-TDYUO,Male,No,Yes,No,48,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,20.05,1036.0,No
 999,6733-LRIZX,Male,No,No,No,35,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,108.95,4025.5,No
 1000,9503-XJUME,Male,No,No,Yes,52,Yes,No,No,No,No,No,No,No,No,One year,No,Credit card (automatic),19.65,928.4,No
-1001,4367-NHWMM,Female,No,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24.9,24.9,No
+1001,4367-NHWMM,Female,No,No,No,1,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24.9,24.9,No
 1002,3727-RJMEO,Male,No,Yes,No,6,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,82.85,460.25,Yes
 1003,3779-OSWCF,Female,No,Yes,No,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),93.2,6506.15,No
 1004,6736-DHUQI,Female,No,Yes,Yes,67,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),84.8,5598.3,No
 1005,3915-ODIYG,Male,Yes,No,No,60,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,One year,Yes,Electronic check,71.75,4374.55,No
-1006,1360-RCYRT,Male,No,Yes,Yes,23,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),30.35,678.75,No
-1007,2724-FJDYW,Male,No,No,Yes,39,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),54.85,2191.7,No
+1006,1360-RCYRT,Male,No,Yes,Yes,23,No,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),30.35,678.75,No
+1007,2724-FJDYW,Male,No,No,Yes,39,No,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),54.85,2191.7,No
 1008,4451-RWASJ,Male,No,Yes,Yes,15,Yes,No,No,No,No,No,No,No,No,One year,Yes,Mailed check,19.5,239.75,No
 1009,6646-VRFOL,Male,Yes,Yes,No,53,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,103.85,5485.5,Yes
 1010,3460-TJBWI,Male,No,Yes,Yes,24,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Mailed check,24.2,609.05,No
@@ -4019,7 +4019,7 @@
 1017,4482-FTFFX,Male,No,No,No,5,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,56.15,291.45,No
 1018,8859-DZTGQ,Male,No,No,No,33,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,20.35,689.75,No
 1019,0440-MOGPM,Female,No,No,No,41,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,80.55,3263.9,No
-1020,0020-JDNXP,Female,No,Yes,Yes,34,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Mailed check,61.25,1993.2,No
+1020,0020-JDNXP,Female,No,Yes,Yes,34,No,No,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Mailed check,61.25,1993.2,No
 1021,3752-CQSJI,Female,No,Yes,Yes,13,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,20.45,254.5,No
 1022,5025-GOOKI,Female,No,No,No,20,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),18.9,347.65,No
 1023,4698-KVLLG,Female,Yes,No,No,51,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),19.6,967.9,No
@@ -4029,8 +4029,8 @@
 1027,4896-CPRPF,Male,No,Yes,Yes,35,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),25.45,809.25,No
 1028,1871-MOWRM,Male,No,Yes,No,12,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),80.85,866.45,Yes
 1029,9714-EDSUC,Male,No,No,No,4,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,94.9,360.55,No
-1030,2027-OAQQC,Female,No,No,No,43,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),49.05,2076.2,Yes
-1031,0282-NVSJS,Female,Yes,Yes,Yes,12,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,29.3,355.9,No
+1030,2027-OAQQC,Female,No,No,No,43,No,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),49.05,2076.2,Yes
+1031,0282-NVSJS,Female,Yes,Yes,Yes,12,No,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,29.3,355.9,No
 1032,9090-SGQXL,Male,Yes,Yes,No,68,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.3,7299.65,Yes
 1033,6595-YGXIT,Male,Yes,No,No,25,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,88.95,2291.2,Yes
 1034,7353-YOWFP,Female,No,No,No,7,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,20.25,129.15,No
@@ -4038,11 +4038,11 @@
 1036,8008-ESFLK,Female,No,Yes,No,53,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,110.5,5835.5,No
 1037,7537-CBQUZ,Male,Yes,No,No,63,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),109.4,7031.45,No
 1038,1555-DJEQW,Female,No,Yes,Yes,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),114.2,7723.9,Yes
-1039,5649-TJHOV,Male,Yes,Yes,No,27,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),36.5,1032.0,Yes
+1039,5649-TJHOV,Male,Yes,Yes,No,27,No,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),36.5,1032.0,Yes
 1040,0519-XUZJU,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,70.75,70.75,Yes
 1041,3363-EWLGO,Female,No,No,No,5,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,19.95,109.6,No
 1042,4750-UKWJK,Female,Yes,Yes,No,37,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,19.6,727.8,No
-1043,6338-AVWCY,Male,No,No,No,3,No,No phone service,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,40.15,130.75,Yes
+1043,6338-AVWCY,Male,No,No,No,3,No,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,40.15,130.75,Yes
 1044,1689-YQBYY,Female,No,No,Yes,12,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76.6,893.0,No
 1045,4487-ZYJZK,Female,No,Yes,Yes,38,Yes,No,No,No,No,No,No,No,No,One year,No,Credit card (automatic),19.6,763.1,No
 1046,2959-FENLU,Female,No,No,No,9,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85.3,781.4,No
@@ -4058,41 +4058,41 @@
 1056,8331-ZXFOE,Female,No,No,No,58,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),71.1,4299.2,No
 1057,4003-FUSHP,Male,No,No,No,19,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),61.55,1093.2,No
 1058,0356-ERHVT,Male,No,Yes,No,11,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),45.9,521.9,No
-1059,7325-ENZFI,Female,No,No,No,39,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),40.3,1630.4,No
+1059,7325-ENZFI,Female,No,No,No,39,No,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),40.3,1630.4,No
 1060,4884-ZTHVF,Female,Yes,No,No,8,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,87.1,713.6,No
 1061,3920-HIHMQ,Female,No,No,Yes,26,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,49.5,1265.65,No
 1062,3055-OYMSE,Female,Yes,No,No,53,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),73.8,4003.85,No
 1063,0613-WUXUM,Female,No,Yes,Yes,70,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,19.2,1401.4,No
-1064,7568-PODML,Male,No,No,No,1,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,45.3,45.3,Yes
+1064,7568-PODML,Male,No,No,No,1,No,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,45.3,45.3,Yes
 1065,4458-KVRBJ,Male,No,No,No,59,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Mailed check,25.0,1510.5,No
 1066,5349-IECLD,Male,No,No,No,2,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,94.95,178.1,Yes
-1067,1397-XKKWR,Male,No,No,No,7,No,No phone service,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,35.3,264.8,No
+1067,1397-XKKWR,Male,No,No,No,7,No,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,35.3,264.8,No
 1068,3945-GFWQL,Female,No,No,Yes,12,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.55,480.6,Yes
 1069,8097-OMULG,Male,No,Yes,Yes,59,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),76.75,4541.9,No
 1070,6013-BHCAW,Male,No,Yes,Yes,61,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),81.0,4976.15,No
 1071,0401-WDBXM,Male,No,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),105.55,7542.25,No
 1072,3387-PLKUI,Female,No,Yes,Yes,13,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,18.8,251.25,No
 1073,6096-EGVTU,Female,No,Yes,Yes,64,Yes,Yes,No,No,No,No,No,No,No,One year,No,Mailed check,24.9,1595.5,No
-1074,3797-VTIDR,Male,No,Yes,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,23.45,23.45,Yes
+1074,3797-VTIDR,Male,No,Yes,No,1,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,23.45,23.45,Yes
 1075,5081-NWSUP,Female,No,No,No,10,Yes,No,DSL,No,Yes,No,Yes,No,Yes,One year,No,Mailed check,64.9,685.55,No
 1076,2580-ATZSQ,Female,No,Yes,Yes,65,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),61.35,3874.1,No
 1077,8085-MSNLK,Female,No,Yes,No,62,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,113.95,6891.4,No
 1078,9691-HKOVS,Female,No,Yes,No,55,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,90.15,4916.95,No
 1079,9881-VCZEP,Female,No,Yes,No,25,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,54.1,1373.0,No
-1080,9526-BIHHD,Male,No,No,No,1,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,29.7,29.7,Yes
+1080,9526-BIHHD,Male,No,No,No,1,No,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,29.7,29.7,Yes
 1081,8757-TFHHJ,Male,No,No,No,1,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),49.8,49.8,No
 1082,4523-WXCEF,Female,No,Yes,No,59,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,101.1,6039.9,Yes
 1083,1468-DEFNC,Male,Yes,Yes,Yes,64,Yes,Yes,No,No,No,No,No,No,No,Two year,Yes,Bank transfer (automatic),24.4,1548.65,No
 1084,5119-KEPFY,Male,No,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.0,3440.25,No
 1085,8364-TRMMK,Female,No,No,No,3,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,50.65,151.3,Yes
 1086,0916-KNFAJ,Male,No,Yes,No,61,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,Two year,Yes,Mailed check,69.9,4226.7,No
-1087,8319-QBEHW,Male,No,No,Yes,26,No,No phone service,DSL,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),39.95,1023.75,No
+1087,8319-QBEHW,Male,No,No,Yes,26,No,No,DSL,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),39.95,1023.75,No
 1088,3063-QFSZL,Female,No,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55.4,55.4,Yes
 1089,8775-LHDJH,Female,Yes,Yes,No,1,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90.6,90.6,Yes
 1090,9625-QNLUX,Male,No,Yes,Yes,68,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),103.25,7074.4,No
 1091,3097-NQYSN,Male,Yes,Yes,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,86.85,156.35,Yes
 1092,4024-CSNBY,Female,No,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),94.25,6849.75,No
-1093,7110-BDTWG,Female,No,Yes,No,71,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,Two year,Yes,Electronic check,47.05,3263.6,No
+1093,7110-BDTWG,Female,No,Yes,No,71,No,No,DSL,No,No,Yes,Yes,No,Yes,Two year,Yes,Electronic check,47.05,3263.6,No
 1094,7493-GVFIO,Male,No,No,No,57,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),20.55,1252.85,No
 1095,0690-SRQID,Male,No,No,No,4,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,19.65,67.55,No
 1096,9605-WGJVW,Female,Yes,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.2,70.2,No
@@ -4107,7 +4107,7 @@
 1105,9249-FXSCK,Female,No,No,No,52,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),111.25,5916.45,Yes
 1106,5493-SDRDQ,Male,No,No,No,2,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,55.1,113.35,Yes
 1107,6286-SUUWT,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,19.95,19.95,No
-1108,4819-HJPIW,Male,No,No,No,18,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25.15,476.8,No
+1108,4819-HJPIW,Male,No,No,No,18,No,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25.15,476.8,No
 1109,8654-DHAOW,Female,No,No,No,2,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,No,Mailed check,54.15,101.65,No
 1110,5438-QMDDL,Female,No,Yes,No,19,Yes,No,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Mailed check,59.8,1130.85,No
 1111,9812-GHVRI,Female,No,No,No,40,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),83.85,3532.25,No
@@ -4128,11 +4128,11 @@
 1126,9190-MFJLN,Male,Yes,No,No,19,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95.9,1777.9,Yes
 1127,6198-PNNSZ,Female,No,Yes,No,56,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),109.8,6109.65,No
 1128,3317-VLGQT,Female,No,Yes,No,14,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,78.1,1122.4,No
-1129,4132-POCZS,Male,No,Yes,No,52,No,No phone service,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,39.9,2020.9,No
+1129,4132-POCZS,Male,No,Yes,No,52,No,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,39.9,2020.9,No
 1130,5614-DNZCE,Female,No,No,No,58,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),64.9,3795.45,No
 1131,1095-JUDTC,Female,Yes,No,No,47,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,95.05,4504.55,Yes
-1132,3896-RCYYE,Female,No,No,No,67,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),53.4,3579.15,No
-1133,9638-JIQYA,Male,No,No,No,2,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),24.9,49.7,No
+1132,3896-RCYYE,Female,No,No,No,67,No,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),53.4,3579.15,No
+1133,9638-JIQYA,Male,No,No,No,2,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),24.9,49.7,No
 1134,3258-SANFR,Male,Yes,No,No,6,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),44.7,276.5,No
 1135,3726-TBHQT,Male,No,Yes,Yes,71,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),114.0,8175.9,No
 1136,3190-ITQXP,Female,No,Yes,Yes,46,Yes,No,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),20.25,890.35,No
@@ -4144,11 +4144,11 @@
 1142,3982-XWFZQ,Female,No,Yes,No,42,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,50.25,2203.65,Yes
 1143,5774-QPLTF,Male,No,Yes,Yes,50,Yes,No,No,No,No,No,No,No,No,One year,Yes,Mailed check,20.35,938.95,No
 1144,2322-VCZHZ,Male,Yes,Yes,No,23,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90.0,2024.1,No
-1145,5010-IPEAQ,Female,No,Yes,Yes,67,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),54.2,3623.95,No
+1145,5010-IPEAQ,Female,No,Yes,Yes,67,No,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),54.2,3623.95,No
 1146,4009-ALQFH,Female,No,No,No,25,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.5,2369.05,Yes
 1147,6383-ZTSIW,Female,Yes,Yes,No,39,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Mailed check,99.1,3877.95,No
 1148,8990-YOZLV,Female,No,No,No,69,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Mailed check,66.9,4577.9,No
-1149,3069-SSVSN,Female,No,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,One year,No,Mailed check,25.85,25.85,No
+1149,3069-SSVSN,Female,No,No,No,1,No,No,DSL,No,No,No,No,No,No,One year,No,Mailed check,25.85,25.85,No
 1150,5222-IMUKT,Male,No,No,No,32,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,91.05,2871.5,No
 1151,3627-FCRDW,Female,No,No,No,9,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,71.0,672.55,Yes
 1152,7562-GSUHK,Female,No,No,No,16,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),93.2,1573.7,Yes
@@ -4161,7 +4161,7 @@
 1159,5857-XRECV,Female,No,No,Yes,2,Yes,No,No,No,No,No,No,No,No,One year,No,Bank transfer (automatic),20.5,38.25,No
 1160,0725-CXOTM,Female,No,No,No,36,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),89.65,3348.1,No
 1161,4343-EJVQB,Male,No,No,No,7,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,74.35,533.6,No
-1162,9000-PLFUZ,Female,Yes,Yes,No,60,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Two year,Yes,Credit card (automatic),49.45,2907.55,No
+1162,9000-PLFUZ,Female,Yes,Yes,No,60,No,No,DSL,No,Yes,No,No,Yes,Yes,Two year,Yes,Credit card (automatic),49.45,2907.55,No
 1163,3427-GGZZI,Female,No,Yes,No,19,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,89.1,1620.8,No
 1164,7779-ORAEL,Male,Yes,Yes,No,45,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),75.15,3480.35,No
 1165,0644-OQMDK,Male,Yes,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.65,293.85,No
@@ -4173,7 +4173,7 @@
 1171,1658-XUHBX,Female,Yes,Yes,Yes,59,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),88.75,5348.65,No
 1172,6379-RXJRQ,Male,No,Yes,No,10,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.1,659.65,Yes
 1173,2378-HTWFW,Male,Yes,No,No,35,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,No,Credit card (automatic),91.0,3180.5,No
-1174,8650-RHRKE,Male,No,No,No,4,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,29.65,118.5,Yes
+1174,8650-RHRKE,Male,No,No,No,4,No,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,29.65,118.5,Yes
 1175,4377-VDHYI,Male,No,Yes,Yes,32,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,One year,Yes,Electronic check,90.8,3023.85,No
 1176,0475-RIJEP,Male,No,No,No,43,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,77.85,3365.85,Yes
 1177,1260-TTRXI,Male,No,No,No,4,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,54.3,195.3,Yes
@@ -4182,7 +4182,7 @@
 1180,0201-MIBOL,Female,Yes,No,No,66,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),102.4,6471.85,No
 1181,4937-QPZPO,Male,No,Yes,Yes,61,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,99.9,6241.35,No
 1182,2925-VDZHY,Male,No,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),88.7,6501.35,No
-1183,6981-TDRFT,Male,No,Yes,Yes,44,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,54.3,2317.1,No
+1183,6981-TDRFT,Male,No,Yes,Yes,44,No,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,54.3,2317.1,No
 1184,3413-CSSTH,Male,No,No,No,41,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),55.7,2237.55,No
 1185,8033-VCZGH,Male,No,Yes,No,50,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,103.95,5231.3,No
 1186,4789-KWMXN,Male,No,Yes,No,47,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),110.85,5275.8,Yes
@@ -4203,23 +4203,23 @@
 1201,6458-CYIDZ,Female,Yes,No,No,5,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,80.7,374.8,No
 1202,8559-CIZFV,Male,No,Yes,Yes,21,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,One year,No,Mailed check,77.5,1625.0,Yes
 1203,1090-PYKCI,Female,No,Yes,Yes,69,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),105.1,7234.8,No
-1204,3058-WQDRE,Male,No,No,No,13,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),25.15,331.85,No
+1204,3058-WQDRE,Male,No,No,No,13,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),25.15,331.85,No
 1205,7547-EKNFS,Male,No,Yes,No,42,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),95.25,3959.35,Yes
 1206,2279-AXJJK,Male,No,Yes,No,52,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),95.65,5088.4,No
 1207,6769-DYBQN,Male,Yes,No,No,46,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,No,Electronic check,85.0,3969.4,Yes
 1208,0909-SELIE,Male,No,Yes,No,61,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),80.8,4860.85,No
-1209,3417-TSCIC,Male,No,No,No,29,No,No phone service,DSL,No,No,No,No,No,No,One year,Yes,Mailed check,24.85,788.05,No
+1209,3417-TSCIC,Male,No,No,No,29,No,No,DSL,No,No,No,No,No,No,One year,Yes,Mailed check,24.85,788.05,No
 1210,1042-HFUCW,Female,No,No,Yes,25,Yes,No,DSL,No,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),54.75,1266.35,No
 1211,4439-JMPMT,Female,No,Yes,Yes,5,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,85.75,470.95,Yes
-1212,6537-OTKMY,Male,No,No,No,15,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,One year,No,Electronic check,50.75,688.2,No
+1212,6537-OTKMY,Male,No,No,No,15,No,No,DSL,No,No,Yes,No,Yes,Yes,One year,No,Electronic check,50.75,688.2,No
 1213,8999-EXMNO,Female,No,Yes,Yes,19,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,20.15,387.7,No
 1214,6725-TPKJO,Male,No,No,No,44,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,20.05,845.25,No
 1215,2446-BEGGB,Female,Yes,No,No,6,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.25,560.6,Yes
 1216,7162-WPHPM,Male,No,Yes,Yes,58,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),71.6,4230.25,No
 1217,1599-MMYRQ,Male,No,Yes,Yes,62,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,One year,Yes,Credit card (automatic),81.45,4983.05,No
-1218,8821-KVZKQ,Female,No,Yes,Yes,70,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),58.4,4113.15,No
-1219,1496-GGSUK,Female,Yes,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25.7,25.7,Yes
-1220,6434-TTGJP,Male,No,Yes,Yes,10,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),53.7,521.0,No
+1218,8821-KVZKQ,Female,No,Yes,Yes,70,No,No,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),58.4,4113.15,No
+1219,1496-GGSUK,Female,Yes,No,No,1,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25.7,25.7,Yes
+1220,6434-TTGJP,Male,No,Yes,Yes,10,No,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),53.7,521.0,No
 1221,0042-JVWOJ,Male,No,No,No,26,Yes,No,No,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),19.6,471.85,No
 1222,0130-SXOUN,Male,No,No,No,66,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Credit card (automatic),89.4,5976.9,No
 1223,2575-GFSOE,Female,No,Yes,Yes,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.0,506.9,Yes
@@ -4234,7 +4234,7 @@
 1232,9681-OXGVC,Female,No,No,No,5,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.5,514.0,Yes
 1233,6394-HHHZM,Male,No,No,No,3,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.7,57.5,No
 1234,5995-LFTLE,Male,No,No,No,58,Yes,Yes,No,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),25.3,1474.35,No
-1235,5180-UCIIQ,Male,Yes,Yes,Yes,22,No,No phone service,DSL,Yes,No,No,No,No,Yes,Month-to-month,No,Mailed check,40.05,880.2,Yes
+1235,5180-UCIIQ,Male,Yes,Yes,Yes,22,No,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,No,Mailed check,40.05,880.2,Yes
 1236,1932-UEDCX,Male,Yes,Yes,No,33,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),100.6,3270.25,No
 1237,7153-OANIO,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69.95,69.95,Yes
 1238,5188-HGMLP,Male,Yes,Yes,No,54,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),74.0,3919.15,No
@@ -4247,28 +4247,28 @@
 1245,4759-PXTAN,Female,No,Yes,No,59,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,80.1,4693.2,No
 1246,7054-DMVAS,Male,No,No,No,54,Yes,No,DSL,Yes,Yes,No,No,Yes,No,Two year,Yes,Bank transfer (automatic),65.3,3512.9,No
 1247,3428-MMGUB,Male,No,No,No,60,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Two year,Yes,Electronic check,89.55,5231.2,No
-1248,6549-BTYPG,Female,No,Yes,No,60,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),60.8,3603.45,No
+1248,6549-BTYPG,Female,No,Yes,No,60,No,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),60.8,3603.45,No
 1249,7823-JSOAG,Male,No,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,74.5,217.45,No
 1250,3705-RHRFR,Female,No,Yes,No,69,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),99.15,6875.35,No
 1251,9374-YOLBJ,Female,No,Yes,Yes,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Electronic check,19.25,19.25,No
-1252,9074-KGVOX,Male,No,Yes,Yes,50,No,No phone service,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),39.45,2021.35,No
-1253,6128-DAFVY,Female,No,No,No,56,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),44.85,2564.95,No
+1252,9074-KGVOX,Male,No,Yes,Yes,50,No,No,DSL,Yes,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),39.45,2021.35,No
+1253,6128-DAFVY,Female,No,No,No,56,No,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),44.85,2564.95,No
 1254,9933-QRGTX,Female,No,Yes,No,60,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Electronic check,97.2,5611.75,No
 1255,4476-OSWTN,Male,Yes,Yes,No,69,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,110.55,7610.1,No
-1256,3751-KTZEL,Female,No,No,No,1,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,35.05,35.05,Yes
+1256,3751-KTZEL,Female,No,No,No,1,No,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,35.05,35.05,Yes
 1257,1977-STDKI,Female,Yes,No,No,1,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,73.0,73.0,Yes
 1258,5066-GFJMM,Female,No,Yes,No,3,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,19.9,45.75,No
 1259,2661-GKBTK,Male,No,Yes,Yes,60,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),76.95,4543.95,No
-1260,0458-HEUZG,Female,No,No,No,13,No,No phone service,DSL,No,No,Yes,Yes,No,No,Two year,No,Mailed check,35.4,450.4,No
+1260,0458-HEUZG,Female,No,No,No,13,No,No,DSL,No,No,Yes,Yes,No,No,Two year,No,Mailed check,35.4,450.4,No
 1261,7268-WNTCP,Male,No,Yes,Yes,62,Yes,No,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),20.45,1297.35,No
 1262,0824-VWDPO,Female,No,No,No,45,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,One year,No,Bank transfer (automatic),96.75,4442.75,No
-1263,8409-WQJUX,Female,No,No,No,25,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,54.2,1423.15,No
+1263,8409-WQJUX,Female,No,No,No,25,No,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,54.2,1423.15,No
 1264,2578-JQPHZ,Male,No,No,No,44,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),100.1,4378.35,No
 1265,3278-FSIXX,Female,No,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,45.25,74.2,No
 1266,5813-UECBU,Male,Yes,No,No,33,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),83.85,2716.3,Yes
 1267,0328-GRPMV,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.1,70.1,Yes
 1268,9746-UGFAC,Female,No,No,No,22,Yes,No,No,No,No,No,No,No,No,One year,No,Bank transfer (automatic),20.85,450.65,No
-1269,2946-KIQSP,Female,No,No,No,35,No,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,33.45,1175.85,No
+1269,2946-KIQSP,Female,No,No,No,35,No,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,33.45,1175.85,No
 1270,0625-AFOHS,Female,No,Yes,Yes,29,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,20.2,558.8,No
 1271,6726-WEXXK,Male,Yes,Yes,No,27,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Electronic check,85.9,2220.1,No
 1272,4636-OLWOE,Male,No,No,Yes,54,Yes,No,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,61.0,3283.05,No
@@ -4284,7 +4284,7 @@
 1282,1354-YZFNB,Male,No,Yes,Yes,4,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),19.55,68.8,No
 1283,6956-SMUCM,Female,No,No,No,3,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99.0,287.4,Yes
 1284,2985-FMWYF,Female,No,No,No,23,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.5,2341.55,No
-1285,2812-ENYMO,Male,No,No,No,26,No,No phone service,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Credit card (automatic),54.55,1362.85,No
+1285,2812-ENYMO,Male,No,No,No,26,No,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,No,Credit card (automatic),54.55,1362.85,No
 1286,2717-HVIZY,Female,No,No,Yes,8,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.05,163.6,No
 1287,3223-WZWJM,Male,No,No,No,26,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,83.95,2254.2,Yes
 1288,3422-GALYP,Male,No,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79.45,145.15,No
@@ -4295,7 +4295,7 @@
 1293,7977-HXJKU,Male,No,No,Yes,21,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,19.6,397.0,No
 1294,6615-ZGEDR,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,19.7,19.7,Yes
 1295,7033-CLAMM,Female,No,Yes,Yes,48,Yes,No,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),20.2,1027.25,No
-1296,4023-RTIQM,Female,Yes,Yes,No,31,No,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),50.4,1580.1,No
+1296,4023-RTIQM,Female,Yes,Yes,No,31,No,No,DSL,Yes,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),50.4,1580.1,No
 1297,0864-FVJNJ,Female,No,Yes,Yes,64,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,113.35,7222.75,No
 1298,7356-IWLFW,Male,No,Yes,Yes,46,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80.0,3769.7,No
 1299,9541-PWTWO,Female,No,No,No,52,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),80.95,4233.95,No
@@ -4309,7 +4309,7 @@
 1307,3043-SUDUA,Female,No,No,No,32,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),19.9,601.55,No
 1308,5442-BHQNG,Female,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.35,139.25,No
 1309,2169-RRLFW,Female,No,Yes,No,71,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),25.6,1888.25,No
-1310,5872-OEQNH,Female,No,No,No,60,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,One year,Yes,Electronic check,44.45,2773.9,No
+1310,5872-OEQNH,Female,No,No,No,60,No,No,DSL,Yes,No,Yes,No,No,Yes,One year,Yes,Electronic check,44.45,2773.9,No
 1311,3162-KKZXO,Female,Yes,No,No,55,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,100.15,5409.75,No
 1312,7055-VKGDA,Male,No,No,No,54,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),105.4,5643.4,Yes
 1313,0754-UKWQP,Male,No,No,No,2,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.85,197.7,Yes
@@ -4318,19 +4318,19 @@
 1316,8946-BFWSG,Male,No,Yes,Yes,63,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Mailed check,25.25,1573.05,No
 1317,7493-TPUWZ,Male,No,No,No,1,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79.15,79.15,Yes
 1318,0547-HURJB,Male,No,No,Yes,12,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),21.05,235.8,No
-1319,8904-OPDCK,Male,Yes,Yes,No,54,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),24.95,1364.75,No
+1319,8904-OPDCK,Male,Yes,Yes,No,54,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),24.95,1364.75,No
 1320,8845-LWKGE,Female,No,Yes,Yes,30,Yes,No,DSL,No,No,Yes,Yes,Yes,No,One year,Yes,Electronic check,64.5,1985.15,No
 1321,1577-HKTFG,Female,No,Yes,No,30,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),19.65,655.85,Yes
 1322,8752-STIVR,Female,No,No,No,4,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.0,303.15,Yes
 1323,0691-NIKRI,Female,No,No,No,40,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),105.95,4335.2,No
 1324,5022-JNQEQ,Female,No,Yes,Yes,9,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,75.85,647.5,No
 1325,4558-FANTW,Female,No,Yes,Yes,17,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,91.85,1574.45,Yes
-1326,3249-VHRIP,Female,No,No,No,62,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),43.6,2748.7,No
+1326,3249-VHRIP,Female,No,No,No,62,No,No,DSL,No,Yes,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),43.6,2748.7,No
 1327,3736-BLEPA,Male,No,No,No,28,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),91.25,2483.65,No
 1328,4701-LKOZD,Female,No,No,No,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),89.75,6367.2,No
 1329,6603-QWSPR,Female,No,No,No,46,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),104.4,4904.2,No
 1330,9921-QFQUL,Female,No,Yes,No,23,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,90.15,2044.95,No
-1331,1929-ZCBHE,Male,No,Yes,Yes,47,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,One year,No,Electronic check,40.3,1794.8,No
+1331,1929-ZCBHE,Male,No,Yes,Yes,47,No,No,DSL,Yes,No,Yes,Yes,No,No,One year,No,Electronic check,40.3,1794.8,No
 1332,4378-MYPGO,Male,No,Yes,Yes,68,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),105.25,7173.15,No
 1333,8651-ENBZX,Female,Yes,No,No,60,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,106.0,6441.4,Yes
 1334,4129-LYCOI,Female,No,No,Yes,67,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,104.0,7039.05,No
@@ -4366,7 +4366,7 @@
 1364,9717-IOAAF,Male,No,No,Yes,27,Yes,Yes,No,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),25.85,788.55,No
 1365,8884-ADFVN,Male,Yes,Yes,No,7,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.95,700.85,Yes
 1366,2845-KDHVX,Female,No,Yes,No,64,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,68.3,4378.8,No
-1367,0848-SOMKO,Male,No,No,No,70,No,No phone service,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),48.4,3442.8,No
+1367,0848-SOMKO,Male,No,No,No,70,No,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),48.4,3442.8,No
 1368,2720-WGKHP,Male,Yes,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.0,181.7,Yes
 1369,6734-FQAJX,Male,Yes,No,No,67,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Electronic check,105.05,7171.7,No
 1370,2869-ADAWR,Female,No,No,No,45,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),89.3,4016.85,Yes
@@ -4376,13 +4376,13 @@
 1374,1293-BSEUN,Female,No,Yes,Yes,72,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,20.7,1482.3,No
 1375,9894-EZEWG,Female,No,No,No,1,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74.3,74.3,Yes
 1376,1302-TPUBN,Male,No,No,No,66,Yes,No,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),19.35,1240.8,No
-1377,7851-FLGGQ,Male,No,No,No,1,No,No phone service,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,44.65,44.65,Yes
+1377,7851-FLGGQ,Male,No,No,No,1,No,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,44.65,44.65,Yes
 1378,0637-UBJRP,Male,No,Yes,Yes,13,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,No,Electronic check,84.05,1095.3,Yes
 1379,0940-OUQEC,Male,No,No,No,10,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80.7,788.8,Yes
 1380,2378-VTKDH,Male,Yes,Yes,No,65,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.35,6578.55,No
 1381,0927-CNGRH,Male,No,No,Yes,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,19.55,19.55,No
 1382,8608-OZTLB,Male,No,Yes,Yes,38,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,No,Electronic check,74.05,2802.3,No
-1383,2335-GSODA,Male,No,No,Yes,23,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,40.1,857.75,No
+1383,2335-GSODA,Male,No,No,Yes,23,No,No,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,40.1,857.75,No
 1384,1952-DVVSW,Female,No,Yes,No,10,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,20.1,184.4,No
 1385,0702-PGIBZ,Male,No,No,Yes,4,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.7,364.55,Yes
 1386,6656-GULJQ,Male,No,Yes,Yes,72,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),83.55,6093.3,No
@@ -4391,7 +4391,7 @@
 1389,3777-XROBG,Female,No,Yes,Yes,58,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),19.55,1079.65,No
 1390,6994-FGRHH,Male,No,Yes,Yes,70,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,106.15,7475.1,No
 1391,4000-VGMQP,Male,No,Yes,Yes,38,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,One year,No,Credit card (automatic),78.95,2862.55,No
-1392,3999-WRNGR,Female,No,Yes,Yes,60,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,49.75,3069.45,No
+1392,3999-WRNGR,Female,No,Yes,Yes,60,No,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,49.75,3069.45,No
 1393,3466-RITXD,Male,No,No,No,26,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),92.4,2349.8,No
 1394,2680-XKKNJ,Female,No,No,No,8,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),58.2,469.25,No
 1395,3058-HJCUY,Male,No,Yes,Yes,41,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,102.6,4213.35,Yes
@@ -4405,7 +4405,7 @@
 1403,3258-ZKPAI,Male,No,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),116.6,8337.45,No
 1404,1428-IEDPR,Male,No,No,No,52,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,109.3,5731.4,No
 1405,5298-GSTLM,Female,Yes,No,No,60,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),101.4,6176.6,No
-1406,4450-YOOHP,Female,No,No,No,39,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),50.65,1905.4,No
+1406,4450-YOOHP,Female,No,No,No,39,No,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),50.65,1905.4,No
 1407,6728-CZFEI,Female,No,No,No,15,Yes,No,DSL,No,No,No,No,Yes,No,One year,No,Mailed check,56.15,931.9,No
 1408,5748-RNCJT,Male,No,No,No,69,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),106.5,7348.8,Yes
 1409,3653-NCRDJ,Male,No,Yes,Yes,43,Yes,No,No,No,No,No,No,No,No,One year,Yes,Mailed check,19.2,776.25,No
@@ -4414,8 +4414,8 @@
 1412,6519-ZHPXP,Female,No,Yes,Yes,72,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),108.3,7679.65,No
 1413,7739-LAXOG,Female,No,Yes,Yes,32,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),91.05,2954.5,Yes
 1414,3472-QPRCH,Male,No,Yes,Yes,40,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),25.25,1006.9,No
-1415,8224-UAXBZ,Female,No,Yes,No,58,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Electronic check,45.35,2540.1,No
-1416,9610-WCESF,Male,No,No,No,67,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,Two year,No,Electronic check,43.9,3097.2,No
+1415,8224-UAXBZ,Female,No,Yes,No,58,No,No,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Electronic check,45.35,2540.1,No
+1416,9610-WCESF,Male,No,No,No,67,No,No,DSL,Yes,No,No,Yes,Yes,No,Two year,No,Electronic check,43.9,3097.2,No
 1417,9776-CLUJA,Female,Yes,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,77.5,3807.35,Yes
 1418,2486-WYVVE,Male,No,Yes,No,31,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,79.3,2484.0,No
 1419,3865-ZYKAD,Male,Yes,Yes,No,69,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),84.9,5785.65,No
@@ -4423,8 +4423,8 @@
 1421,2999-AANRQ,Female,No,No,No,21,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Credit card (automatic),71.05,1524.85,No
 1422,8668-KNZTI,Male,No,No,No,52,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Electronic check,53.75,2790.65,No
 1423,0480-KYJVA,Female,No,Yes,Yes,72,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),24.25,1784.5,No
-1424,6034-ZRYCV,Female,No,Yes,No,72,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,54.2,3937.45,Yes
-1425,9746-YKGXB,Male,No,Yes,Yes,52,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,One year,No,Bank transfer (automatic),44.25,2276.1,No
+1424,6034-ZRYCV,Female,No,Yes,No,72,No,No,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,54.2,3937.45,Yes
+1425,9746-YKGXB,Male,No,Yes,Yes,52,No,No,DSL,Yes,No,Yes,No,No,Yes,One year,No,Bank transfer (automatic),44.25,2276.1,No
 1426,3926-YZVVX,Female,No,No,No,41,Yes,No,DSL,No,No,No,Yes,No,No,One year,No,Bank transfer (automatic),50.05,2029.05,No
 1427,6000-UKLWI,Male,No,No,No,41,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,20.15,802.35,No
 1428,2079-FBMZK,Female,No,No,No,6,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.25,418.4,Yes
@@ -4434,7 +4434,7 @@
 1432,8221-EQDGL,Male,No,Yes,No,35,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,61.0,2130.45,No
 1433,2346-LOCWC,Female,No,Yes,Yes,58,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),20.5,1191.4,No
 1434,6608-QQLVK,Male,No,No,No,1,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,50.5,50.5,Yes
-1435,0298-XACET,Male,No,Yes,Yes,52,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,50.2,2554.0,No
+1435,0298-XACET,Male,No,Yes,Yes,52,No,No,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,50.2,2554.0,No
 1436,7560-QJAVJ,Female,No,No,No,70,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),79.6,5589.45,No
 1437,2995-YWTCD,Female,No,Yes,Yes,19,Yes,Yes,No,No,No,No,No,No,No,Two year,Yes,Bank transfer (automatic),24.9,467.7,No
 1438,3551-HUAZH,Male,Yes,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.4,74.4,Yes
@@ -4454,11 +4454,11 @@
 1452,9529-OFXHY,Male,No,No,No,15,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),87.75,1242.2,No
 1453,8634-MPHTR,Male,Yes,Yes,No,47,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.05,4871.05,Yes
 1454,2669-QVCRG,Female,No,No,No,41,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),81.3,3190.65,No
-1455,2478-EEWWM,Male,No,Yes,No,59,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44.3,2666.75,No
+1455,2478-EEWWM,Male,No,Yes,No,59,No,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44.3,2666.75,No
 1456,9174-IHETN,Female,No,No,Yes,50,Yes,No,Fiber optic,No,No,No,No,No,No,Two year,No,Credit card (automatic),70.35,3533.6,No
-1457,2233-TXSIU,Male,No,Yes,Yes,17,No,No phone service,DSL,Yes,No,Yes,No,Yes,No,One year,No,Credit card (automatic),44.45,792.15,No
+1457,2233-TXSIU,Male,No,Yes,Yes,17,No,No,DSL,Yes,No,Yes,No,Yes,No,One year,No,Credit card (automatic),44.45,792.15,No
 1458,9644-UMGQA,Male,No,Yes,Yes,6,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,49.15,295.65,No
-1459,3256-EZDBI,Male,Yes,Yes,No,51,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),29.45,1459.35,No
+1459,3256-EZDBI,Male,Yes,Yes,No,51,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),29.45,1459.35,No
 1460,8761-NSOBC,Male,No,No,No,44,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,100.55,4398.15,Yes
 1461,0419-YAAPX,Male,No,Yes,No,49,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),85.3,4297.95,No
 1462,8413-VONUO,Male,No,No,No,2,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,95.65,167.3,Yes
@@ -4492,50 +4492,50 @@
 1490,3985-HOYPM,Male,No,No,No,26,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,19.4,525.55,No
 1491,9728-FTTVZ,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.2,69.2,Yes
 1492,9548-LERKT,Male,No,Yes,No,24,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,19.75,483.15,No
-1493,6576-FBXOJ,Male,No,Yes,No,17,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,54.6,934.8,No
-1494,4310-KEDTB,Female,No,No,Yes,26,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,29.8,786.5,No
+1493,6576-FBXOJ,Male,No,Yes,No,17,No,No,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,54.6,934.8,No
+1494,4310-KEDTB,Female,No,No,Yes,26,No,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,29.8,786.5,No
 1495,7254-IQWOZ,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.65,69.65,Yes
 1496,2474-BRUCM,Male,Yes,Yes,No,40,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,101.85,4086.3,Yes
 1497,4062-HBMOS,Male,No,No,No,52,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,103.05,5364.8,No
 1498,0742-NXBGR,Female,No,No,No,1,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,82.3,82.3,Yes
 1499,2676-ISHSF,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.3,20.3,No
-1500,9236-NDUCW,Female,No,No,No,21,No,No phone service,DSL,Yes,No,No,Yes,No,No,Two year,No,Mailed check,35.1,770.4,No
+1500,9236-NDUCW,Female,No,No,No,21,No,No,DSL,Yes,No,No,Yes,No,No,Two year,No,Mailed check,35.1,770.4,No
 1501,4753-PADAS,Female,No,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),105.7,6816.95,No
 1502,6103-QCKFX,Female,No,Yes,Yes,44,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),56.25,2419.55,No
-1503,7781-EWARA,Male,No,Yes,Yes,70,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,60.35,4138.7,No
+1503,7781-EWARA,Male,No,Yes,Yes,70,No,No,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,60.35,4138.7,No
 1504,6110-OHIHY,Male,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,79.25,267.6,Yes
 1505,7018-FPXHH,Male,No,Yes,Yes,56,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),59.8,3457.45,No
 1506,5889-LFOLL,Female,No,No,No,13,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.6,1115.2,Yes
 1507,5708-EVONK,Female,No,Yes,Yes,58,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),93.4,5435.6,Yes
 1508,8708-XPXHZ,Female,No,Yes,Yes,42,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.2,4186.3,Yes
-1509,0616-ATFGB,Male,Yes,Yes,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.05,25.05,Yes
+1509,0616-ATFGB,Male,Yes,Yes,No,1,No,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.05,25.05,Yes
 1510,0572-ZJKLT,Female,No,Yes,Yes,46,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,99.65,4630.2,No
 1511,5135-RDDQL,Female,No,Yes,Yes,63,Yes,No,DSL,Yes,No,No,No,No,No,Two year,Yes,Bank transfer (automatic),50.65,3221.25,No
 1512,1353-LJWEM,Male,No,No,No,11,Yes,No,DSL,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,60.9,688.5,No
 1513,1794-SWWKL,Male,No,Yes,Yes,15,Yes,Yes,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),59.65,867.1,No
-1514,6166-YIPFO,Male,No,Yes,No,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,64.7,4746.05,No
-1515,7016-BPGEU,Female,No,No,No,29,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),25.1,712.85,Yes
+1514,6166-YIPFO,Male,No,Yes,No,72,No,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,64.7,4746.05,No
+1515,7016-BPGEU,Female,No,No,No,29,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),25.1,712.85,Yes
 1516,6876-ADESB,Male,No,No,Yes,1,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,48.95,48.95,Yes
 1517,9332-GYWLO,Female,No,Yes,Yes,6,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,54.85,355.1,No
 1518,1963-SVUCV,Male,No,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,45.3,45.3,Yes
 1519,4184-VODJZ,Male,No,Yes,Yes,63,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,One year,Yes,Electronic check,91.35,5764.7,No
 1520,0220-EBGCE,Male,No,No,No,2,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,85.85,167.3,Yes
 1521,1092-WPIVQ,Female,No,Yes,Yes,18,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Mailed check,25.1,428.45,No
-1522,7233-IOQNP,Female,No,Yes,No,43,No,No phone service,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),34.0,1505.35,No
-1523,2834-JKOOW,Female,No,No,No,15,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,45.9,693.45,No
+1522,7233-IOQNP,Female,No,Yes,No,43,No,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),34.0,1505.35,No
+1523,2834-JKOOW,Female,No,No,No,15,No,No,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Mailed check,45.9,693.45,No
 1524,2754-VDLTR,Male,No,No,Yes,10,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,95.2,930.4,Yes
 1525,2400-FEQME,Male,No,Yes,Yes,55,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,20.5,1177.95,No
 1526,3190-XFANI,Male,No,No,Yes,49,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),100.6,5069.65,Yes
 1527,7551-DACSP,Male,No,Yes,Yes,6,Yes,No,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,55.3,324.25,Yes
 1528,4957-SREEC,Male,No,Yes,Yes,70,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),20.35,1458.1,No
 1529,7235-NXZCP,Male,Yes,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74.85,156.4,Yes
-1530,0230-UBYPQ,Male,Yes,Yes,No,63,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),36.1,2298.9,No
+1530,0230-UBYPQ,Male,Yes,Yes,No,63,No,No,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),36.1,2298.9,No
 1531,4923-ADWXJ,Female,No,No,No,25,Yes,No,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),65.8,1679.65,No
 1532,1763-KUAAW,Female,Yes,No,No,18,Yes,No,No,No,No,No,No,No,No,One year,No,Bank transfer (automatic),20.35,369.6,No
 1533,1104-TNLZA,Male,Yes,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105.8,2998.0,No
 1534,5195-KPUNQ,Female,Yes,No,No,53,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,96.75,5206.55,No
 1535,0520-FDVVT,Male,No,No,No,35,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),102.35,3626.1,Yes
-1536,3439-GVUSX,Male,No,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,24.4,24.4,No
+1536,3439-GVUSX,Male,No,No,No,1,No,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,24.4,24.4,No
 1537,1444-VVSGW,Male,No,Yes,No,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),115.65,7968.85,Yes
 1538,5712-PTIWW,Male,No,No,No,2,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,79.85,152.45,Yes
 1539,5949-HGVJL,Female,No,Yes,No,26,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,73.05,1959.5,No
@@ -4546,13 +4546,13 @@
 1544,6661-HBGWL,Female,Yes,No,No,42,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),104.75,4323.45,Yes
 1545,1518-VOWAV,Female,No,No,No,9,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,74.65,703.55,Yes
 1546,9828-QHFBK,Male,No,No,No,24,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,51.15,1275.7,No
-1547,3908-MKIMJ,Male,Yes,Yes,No,68,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Electronic check,41.95,2965.75,No
+1547,3908-MKIMJ,Male,Yes,Yes,No,68,No,No,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Electronic check,41.95,2965.75,No
 1548,5012-YSPJJ,Male,No,Yes,Yes,31,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,54.35,1647.0,No
 1549,5909-ECHUI,Female,No,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,56.25,56.25,Yes
 1550,1309-BXVOQ,Male,No,Yes,No,21,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,106.1,2249.95,Yes
 1551,6728-VOIFY,Female,No,Yes,No,63,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,96.0,6109.75,No
 1552,9317-WZPGV,Female,Yes,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),79.75,159.4,Yes
-1553,4891-NLUBA,Female,No,Yes,Yes,61,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),61.45,3751.15,No
+1553,4891-NLUBA,Female,No,Yes,Yes,61,No,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),61.45,3751.15,No
 1554,2856-HYAPG,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,68.65,68.65,Yes
 1555,8969-PRHFK,Male,No,No,No,18,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,19.65,411.25,No
 1556,0661-KQHNK,Female,No,Yes,Yes,6,Yes,No,No,No,No,No,No,No,No,One year,No,Credit card (automatic),19.0,105.5,No
@@ -4569,10 +4569,10 @@
 1567,6215-NQCPY,Male,No,No,No,15,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.7,1566.75,No
 1568,5647-URDKA,Male,No,Yes,Yes,8,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,19.7,130.25,No
 1569,2229-DPMBI,Female,No,Yes,Yes,8,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,19.5,162.15,No
-1570,9626-WEQRM,Female,No,No,No,4,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,29.15,110.05,No
+1570,9626-WEQRM,Female,No,No,No,4,No,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,29.15,110.05,No
 1571,2188-SXWVT,Female,No,No,No,34,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Mailed check,55.0,1885.15,No
 1572,6258-PVZWJ,Male,No,Yes,No,68,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),90.8,6302.85,No
-1573,1094-BKOSX,Female,No,Yes,Yes,45,No,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),51.0,2264.5,No
+1573,1094-BKOSX,Female,No,Yes,Yes,45,No,No,DSL,No,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),51.0,2264.5,No
 1574,6969-MVBAI,Female,Yes,No,No,9,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,90.1,816.8,No
 1575,2978-XXSOG,Female,No,No,No,22,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,59.05,1253.5,No
 1576,2342-CKIAO,Female,No,No,No,2,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.3,41.2,No
@@ -4592,21 +4592,21 @@
 1590,1031-IIDEO,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.85,70.85,Yes
 1591,5832-XKAES,Male,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),69.8,134.7,Yes
 1592,3205-MXZRA,Male,No,No,No,26,Yes,No,DSL,No,No,No,Yes,Yes,No,One year,No,Credit card (automatic),59.45,1507.0,No
-1593,4701-AHWMW,Male,No,Yes,No,55,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),54.55,2978.3,Yes
+1593,4701-AHWMW,Male,No,Yes,No,55,No,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),54.55,2978.3,Yes
 1594,8317-BVKSO,Male,No,No,No,14,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,20.05,299.3,No
 1595,5702-KVQRD,Male,No,Yes,No,71,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,82.55,5832.65,No
 1596,0083-PIVIK,Male,No,No,No,64,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,No,Electronic check,81.25,5567.55,No
 1597,9210-IAHGH,Female,No,No,No,7,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),70.75,450.8,Yes
 1598,6169-PGNCD,Female,No,No,No,57,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),74.3,4166.35,No
 1599,0023-XUOPT,Female,No,Yes,No,13,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Electronic check,94.1,1215.6,Yes
-1600,4592-IWTJI,Female,No,Yes,Yes,3,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),29.7,91.7,Yes
+1600,4592-IWTJI,Female,No,Yes,Yes,3,No,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),29.7,91.7,Yes
 1601,4909-JOUPP,Male,Yes,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),109.7,7898.45,No
 1602,4657-FWVFY,Female,No,Yes,Yes,40,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),96.35,3915.4,No
 1603,2257-BOVXD,Male,No,Yes,No,14,Yes,Yes,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),66.6,979.5,No
 1604,7729-JTEEC,Male,No,Yes,Yes,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.5,90.05,No
 1605,7632-MNYOY,Male,Yes,No,No,66,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),110.9,7432.05,Yes
 1606,6518-LGAOV,Female,No,Yes,No,38,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105.0,4026.4,Yes
-1607,7242-QZLXF,Male,No,No,Yes,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25.3,25.3,Yes
+1607,7242-QZLXF,Male,No,No,Yes,1,No,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25.3,25.3,Yes
 1608,4576-CSAJH,Male,No,No,No,22,Yes,No,DSL,No,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),55.15,1193.05,Yes
 1609,1000-AJSLD,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,20.1,20.1,Yes
 1610,9696-RMYBA,Male,No,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,80.1,398.55,No
@@ -4623,7 +4623,7 @@
 1621,6762-NSODU,Female,No,Yes,Yes,46,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),19.4,958.15,No
 1622,4662-EKDPQ,Male,No,No,No,2,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),62.05,118.3,Yes
 1623,9248-OJYKK,Male,Yes,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76.45,76.45,Yes
-1624,9888-ZCUMM,Male,No,Yes,Yes,64,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),60.05,3845.45,No
+1624,9888-ZCUMM,Male,No,Yes,Yes,64,No,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),60.05,3845.45,No
 1625,3398-FSHON,Female,Yes,No,No,12,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,91.3,1094.5,Yes
 1626,3319-DWOEP,Male,Yes,Yes,No,6,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.75,573.75,Yes
 1627,1074-WVEVG,Female,No,Yes,No,59,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,20.35,1267.0,No
@@ -4639,7 +4639,7 @@
 1637,1122-YJBCS,Male,No,Yes,No,69,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,Yes,Credit card (automatic),53.65,3804.4,No
 1638,4990-ALDGW,Male,No,No,No,57,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,20.75,1118.8,No
 1639,4816-OKWNX,Male,No,Yes,Yes,50,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),103.4,5236.4,No
-1640,3315-IKYZQ,Male,No,Yes,Yes,28,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Mailed check,50.8,1386.8,No
+1640,3315-IKYZQ,Male,No,Yes,Yes,28,No,No,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Mailed check,50.8,1386.8,No
 1641,2810-FTLEM,Female,No,No,No,16,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,50.15,762.25,Yes
 1642,4747-LCAQL,Male,No,No,No,25,Yes,No,DSL,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,79.0,1902.0,No
 1643,3411-WLRSQ,Female,Yes,Yes,No,3,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74.6,239.05,No
@@ -4652,7 +4652,7 @@
 1650,5850-BDWCY,Female,No,No,No,6,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.2,123.65,No
 1651,2038-YSEZE,Female,No,No,No,29,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,67.45,1801.1,No
 1652,0827-ITJPH,Male,No,No,No,36,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),18.55,689.0,No
-1653,8799-OXZMD,Female,No,No,No,28,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,29.75,790.7,No
+1653,8799-OXZMD,Female,No,No,No,28,No,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,29.75,790.7,No
 1654,1925-TIBLE,Female,No,Yes,No,7,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86.5,582.5,Yes
 1655,1705-GUHPV,Female,No,No,No,63,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Mailed check,24.2,1618.2,No
 1656,4779-ZGICK,Male,No,Yes,Yes,48,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Mailed check,23.55,1173.35,No
@@ -4660,11 +4660,11 @@
 1658,0818-OCPZO,Male,Yes,No,No,27,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,81.45,2122.05,Yes
 1659,3967-KXAPS,Male,No,Yes,No,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),92.3,6719.9,No
 1660,1447-GIQMR,Male,No,Yes,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.15,69.15,Yes
-1661,3704-IEAXF,Female,No,Yes,Yes,72,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),53.65,3784.0,No
-1662,6810-VCAEX,Female,No,No,No,47,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,One year,No,Credit card (automatic),39.65,1798.65,No
+1661,3704-IEAXF,Female,No,Yes,Yes,72,No,No,DSL,No,Yes,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),53.65,3784.0,No
+1662,6810-VCAEX,Female,No,No,No,47,No,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Credit card (automatic),39.65,1798.65,No
 1663,0674-EYYZV,Female,No,No,No,1,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,54.65,54.65,No
 1664,4480-MBMLB,Female,No,No,No,36,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),104.8,3886.45,No
-1665,1395-OFUWC,Male,No,Yes,Yes,43,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),29.3,1224.05,No
+1665,1395-OFUWC,Male,No,Yes,Yes,43,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),29.3,1224.05,No
 1666,0822-QGCXA,Female,Yes,Yes,No,27,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,83.85,2310.2,No
 1667,0872-NXJYS,Female,No,No,No,9,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.55,723.4,Yes
 1668,2832-KJCRD,Female,No,No,No,38,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,103.65,3988.5,No
@@ -4676,23 +4676,23 @@
 1674,6258-NGCNG,Male,No,No,No,7,Yes,Yes,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,23.5,173.0,No
 1675,4186-ZBUEW,Female,No,No,No,36,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,70.7,2511.95,No
 1676,5274-XHAKY,Female,No,Yes,Yes,41,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),94.3,3893.6,No
-1677,1442-BQPVU,Female,No,No,No,13,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,29.15,357.15,No
+1677,1442-BQPVU,Female,No,No,No,13,No,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,29.15,357.15,No
 1678,3978-YNKDD,Male,No,No,Yes,19,Yes,No,No,No,No,No,No,No,No,Two year,No,Credit card (automatic),20.85,467.5,No
-1679,4940-KHCWD,Female,No,Yes,No,60,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),37.7,2288.7,No
+1679,4940-KHCWD,Female,No,Yes,No,60,No,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),37.7,2288.7,No
 1680,9412-ARGBX,Female,No,No,Yes,48,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Mailed check,95.5,4627.85,Yes
 1681,1389-CXMLU,Male,Yes,No,No,3,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,91.05,289.1,Yes
 1682,9589-ABEPT,Male,No,Yes,No,69,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,92.45,6460.55,No
-1683,9388-ZEYVT,Male,No,No,No,43,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,One year,No,Electronic check,44.15,1931.3,No
-1684,0305-SQECB,Female,No,No,Yes,11,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,Yes,Mailed check,36.05,402.6,No
+1683,9388-ZEYVT,Male,No,No,No,43,No,No,DSL,No,No,Yes,Yes,No,Yes,One year,No,Electronic check,44.15,1931.3,No
+1684,0305-SQECB,Female,No,No,Yes,11,No,No,DSL,Yes,No,No,Yes,No,No,One year,Yes,Mailed check,36.05,402.6,No
 1685,7605-SNLQG,Female,No,Yes,No,45,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),50.25,2221.55,No
 1686,4670-TABXH,Male,No,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),109.75,7758.9,No
 1687,5561-NWEVX,Female,Yes,Yes,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,79.2,172.85,Yes
 1688,0064-SUDOG,Female,No,Yes,Yes,12,Yes,No,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),20.3,224.5,No
 1689,8561-NMTBD,Female,No,Yes,Yes,67,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),112.35,7388.45,No
 1690,5161-XEUVX,Male,No,Yes,No,37,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Two year,No,Mailed check,94.3,3460.95,No
-1691,8292-FRFZQ,Female,No,No,No,39,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),41.15,1700.9,No
+1691,8292-FRFZQ,Female,No,No,No,39,No,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),41.15,1700.9,No
 1692,8591-NXRCV,Female,No,No,No,41,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),74.65,3090.65,No
-1693,7895-VONWT,Female,No,No,No,25,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,48.25,1293.8,No
+1693,7895-VONWT,Female,No,No,No,25,No,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,48.25,1293.8,No
 1694,4526-RMTLL,Male,No,Yes,Yes,8,Yes,Yes,DSL,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Credit card (automatic),76.15,645.8,No
 1695,6253-GNHWH,Female,No,Yes,Yes,71,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Mailed check,71.1,5224.95,No
 1696,4566-NECEV,Male,No,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,96.55,500.1,No
@@ -4702,7 +4702,7 @@
 1700,8107-RZLNV,Male,No,Yes,No,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),106.3,7565.35,No
 1701,0516-OOHAR,Male,No,Yes,Yes,28,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),100.35,2799.0,No
 1702,2027-CWDNU,Male,No,Yes,Yes,18,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,85.6,1601.5,No
-1703,2737-WFVYW,Female,No,No,No,2,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,45.25,85.5,Yes
+1703,2737-WFVYW,Female,No,No,No,2,No,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,45.25,85.5,Yes
 1704,9912-OMZDS,Female,No,Yes,Yes,59,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,106.15,6256.2,No
 1705,3733-ZEECP,Male,No,Yes,Yes,22,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,51.1,1232.9,No
 1706,7878-RTCZG,Female,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,19.9,19.9,No
@@ -4726,7 +4726,7 @@
 1724,7359-SSBJK,Female,Yes,No,No,64,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),70.2,4481.0,Yes
 1725,2061-VVFST,Female,No,Yes,No,37,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),19.5,805.2,No
 1726,0685-MLYYM,Female,Yes,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.75,154.85,Yes
-1727,0749-IRGQE,Female,Yes,Yes,No,13,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,45.3,528.45,No
+1727,0749-IRGQE,Female,Yes,Yes,No,13,No,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,45.3,528.45,No
 1728,2380-DAMQP,Female,No,Yes,No,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,115.15,8349.7,No
 1729,2256-YLYLP,Male,No,Yes,Yes,68,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),72.95,4953.25,No
 1730,1272-ILHFG,Male,No,Yes,Yes,15,Yes,No,No,No,No,No,No,No,No,One year,No,Mailed check,19.65,332.65,No
@@ -4746,17 +4746,17 @@
 1744,6500-JVEGC,Male,No,No,No,68,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,No,Bank transfer (automatic),101.35,7110.75,No
 1745,5515-AKOAJ,Female,No,No,No,54,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,100.1,5440.9,Yes
 1746,8976-OQHGT,Female,No,Yes,Yes,4,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,56.5,235.1,Yes
-1747,5245-VDBUR,Female,No,Yes,No,52,No,No phone service,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,35.45,1958.95,No
+1747,5245-VDBUR,Female,No,Yes,No,52,No,No,DSL,Yes,No,Yes,No,No,No,One year,No,Mailed check,35.45,1958.95,No
 1748,6230-BSUXY,Female,Yes,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,85.0,85.0,Yes
 1749,8469-SNFFH,Male,No,Yes,No,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,No,Bank transfer (automatic),79.4,5528.9,No
-1750,2144-ESWKO,Male,No,No,No,43,No,No phone service,DSL,Yes,No,Yes,No,No,No,One year,Yes,Credit card (automatic),35.2,1463.7,No
+1750,2144-ESWKO,Male,No,No,No,43,No,No,DSL,Yes,No,Yes,No,No,No,One year,Yes,Credit card (automatic),35.2,1463.7,No
 1751,1241-FPMOF,Male,No,No,No,52,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,19.65,1025.05,No
-1752,9928-BZVLZ,Female,No,No,No,12,No,No phone service,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,49.85,552.1,No
+1752,9928-BZVLZ,Female,No,No,No,12,No,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,49.85,552.1,No
 1753,4114-QMKVN,Female,No,Yes,Yes,56,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,One year,No,Bank transfer (automatic),68.75,3815.4,No
 1754,2775-SEFEE,Male,No,No,Yes,0,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Bank transfer (automatic),61.9,2302.0628607304266,No
 1755,9003-CPATH,Male,No,No,No,42,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,79.9,3313.4,No
 1756,1754-GKYPY,Male,Yes,Yes,No,22,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),89.75,1938.9,No
-1757,5294-CDGWY,Male,No,Yes,Yes,51,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,59.3,3014.65,Yes
+1757,5294-CDGWY,Male,No,Yes,Yes,51,No,No,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,59.3,3014.65,Yes
 1758,7956-XQWGU,Male,No,No,No,27,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),19.4,460.25,No
 1759,1591-MQJTP,Male,Yes,Yes,No,51,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),93.65,4839.15,No
 1760,5295-PCJOO,Male,No,No,Yes,4,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,49.4,184.4,Yes
@@ -4776,13 +4776,13 @@
 1774,0970-QXPXW,Female,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,19.65,19.65,No
 1775,3259-KNMRR,Male,Yes,No,No,57,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),79.75,4438.2,No
 1776,6120-RJKLU,Female,Yes,Yes,No,62,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),79.95,4819.75,No
-1777,9572-WUKSB,Male,No,Yes,No,3,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,29.9,92.25,No
+1777,9572-WUKSB,Male,No,Yes,No,3,No,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,29.9,92.25,No
 1778,5893-KCLGT,Female,No,No,Yes,72,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,19.75,1567.0,No
-1779,0076-LVEPS,Male,No,No,Yes,29,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,45.0,1242.45,No
+1779,0076-LVEPS,Male,No,No,Yes,29,No,No,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,45.0,1242.45,No
 1780,3640-JQGJG,Male,No,Yes,Yes,13,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),44.8,559.2,No
 1781,4919-MOAVT,Male,No,No,Yes,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69.65,220.1,Yes
 1782,1596-OQSPS,Female,No,No,No,11,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,51.1,531.15,No
-1783,9867-XOBQA,Female,No,No,Yes,21,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,53.15,1183.2,No
+1783,9867-XOBQA,Female,No,No,Yes,21,No,No,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,53.15,1183.2,No
 1784,9546-KDTRB,Female,No,No,No,19,Yes,Yes,No,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),24.7,465.85,No
 1785,3090-HAWSU,Male,No,No,No,61,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),111.6,6876.05,Yes
 1786,9820-RMCQV,Female,No,No,No,11,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),48.55,501.0,Yes
@@ -4790,7 +4790,7 @@
 1788,1760-CAZHT,Male,No,No,Yes,25,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.8,460.2,No
 1789,7839-QRKXN,Female,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,20.2,20.2,Yes
 1790,8441-SHIPE,Female,No,No,No,67,Yes,Yes,No,No,No,No,No,No,No,Two year,Yes,Bank transfer (automatic),25.6,1790.35,No
-1791,5204-QZXPU,Male,No,No,No,19,No,No phone service,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,39.65,733.35,Yes
+1791,5204-QZXPU,Male,No,No,No,19,No,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,39.65,733.35,Yes
 1792,4597-ELFTS,Male,No,No,No,56,Yes,Yes,No,No,No,No,No,No,No,One year,No,Electronic check,24.9,1334.0,Yes
 1793,1320-GVNHT,Male,No,Yes,Yes,72,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),108.4,7767.25,No
 1794,1047-RNXZV,Male,No,No,No,43,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,19.55,876.15,No
@@ -4809,10 +4809,10 @@
 1807,2030-BTZRO,Male,No,Yes,Yes,6,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),20.4,107.6,No
 1808,1116-DXXDF,Male,No,No,No,39,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Electronic check,100.45,3801.7,No
 1809,9274-CNFMO,Male,Yes,Yes,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,74.95,308.7,Yes
-1810,7758-XKCBS,Male,No,No,No,15,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,29.7,438.25,Yes
-1811,8992-JQYUN,Male,No,Yes,No,1,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.35,50.35,Yes
+1810,7758-XKCBS,Male,No,No,No,15,No,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,29.7,438.25,Yes
+1811,8992-JQYUN,Male,No,Yes,No,1,No,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.35,50.35,Yes
 1812,6563-VNPMN,Female,Yes,No,No,45,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),85.7,3778.1,No
-1813,0617-AQNWT,Female,No,Yes,No,64,No,No phone service,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Electronic check,47.85,3147.5,Yes
+1813,0617-AQNWT,Female,No,Yes,No,64,No,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Electronic check,47.85,3147.5,Yes
 1814,2267-WTPYD,Female,Yes,Yes,No,57,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),94.0,5438.95,No
 1815,0270-THENM,Male,No,Yes,Yes,72,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),69.85,5102.35,No
 1816,2446-PLQVO,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.3,70.3,Yes
@@ -4833,7 +4833,7 @@
 1831,9451-LPGOO,Male,No,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,86.8,620.35,Yes
 1832,9173-IVZVP,Female,No,Yes,Yes,53,Yes,No,No,No,No,No,No,No,No,Two year,No,Mailed check,20.9,1146.05,No
 1833,9129-UXERG,Female,Yes,No,No,18,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),103.6,1806.35,No
-1834,3635-JBPSG,Female,No,No,No,15,No,No phone service,DSL,No,Yes,No,No,No,Yes,Two year,Yes,Mailed check,38.8,603.0,No
+1834,3635-JBPSG,Female,No,No,No,15,No,No,DSL,No,Yes,No,No,No,Yes,Two year,Yes,Mailed check,38.8,603.0,No
 1835,7964-ZRKKG,Male,No,Yes,No,67,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),88.4,5798.3,No
 1836,5868-YWPDW,Male,Yes,Yes,No,6,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.2,519.15,Yes
 1837,6229-LSCKB,Male,Yes,No,No,6,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.7,497.6,No
@@ -4863,7 +4863,7 @@
 1861,6692-UDPJC,Female,No,Yes,Yes,14,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,91.65,1301.0,Yes
 1862,1273-MTETI,Female,Yes,No,No,4,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,88.85,372.45,Yes
 1863,0657-DOGUM,Female,No,Yes,No,48,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Bank transfer (automatic),60.6,2985.25,No
-1864,5480-HPRRX,Female,Yes,No,No,3,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.3,77.75,Yes
+1864,5480-HPRRX,Female,Yes,No,No,3,No,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.3,77.75,Yes
 1865,8792-AOROI,Female,No,Yes,No,8,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Two year,No,Mailed check,65.5,564.35,No
 1866,0295-PPHDO,Male,No,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.45,95.45,Yes
 1867,5146-YYFRZ,Male,No,No,No,67,Yes,No,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),19.95,1311.75,No
@@ -4880,21 +4880,21 @@
 1878,2990-HWIML,Female,No,No,No,6,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.5,573.3,Yes
 1879,0682-USIXD,Female,No,Yes,No,21,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,86.05,1818.9,No
 1880,6976-BWGLQ,Female,No,Yes,Yes,72,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),25.2,1787.35,No
-1881,7078-NVFAM,Female,No,Yes,Yes,32,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,35.15,1051.05,No
+1881,7078-NVFAM,Female,No,Yes,Yes,32,No,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,35.15,1051.05,No
 1882,8065-QBYTO,Female,Yes,No,No,71,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,One year,Yes,Credit card (automatic),99.65,7181.25,No
 1883,2133-TSRRM,Female,No,No,Yes,34,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),105.35,3688.6,No
-1884,7384-GHBPI,Male,No,Yes,No,3,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35.15,99.75,Yes
+1884,7384-GHBPI,Male,No,Yes,No,3,No,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,35.15,99.75,Yes
 1885,7603-USHJS,Male,No,No,Yes,12,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),73.75,871.4,Yes
 1886,7234-FECYN,Female,Yes,No,No,8,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,101.35,780.5,Yes
 1887,2511-ALLCS,Female,No,Yes,Yes,35,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),24.3,821.6,No
 1888,3191-CSNMG,Female,No,Yes,Yes,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.7,239.45,No
 1889,7952-OBOYL,Male,No,No,No,3,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,89.85,244.45,No
 1890,7470-DYNOE,Male,No,No,No,53,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,Yes,Electronic check,61.1,3357.9,No
-1891,7853-OETYL,Female,No,Yes,No,4,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,29.05,129.6,No
+1891,7853-OETYL,Female,No,Yes,No,4,No,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,29.05,129.6,No
 1892,1545-ACTAS,Female,No,Yes,Yes,48,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),99.7,4977.2,No
 1893,5876-HZVZM,Female,No,Yes,Yes,6,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),55.9,365.35,Yes
 1894,1400-MMYXY,Male,Yes,Yes,No,3,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.9,334.65,Yes
-1895,5126-RCXYW,Male,No,Yes,Yes,54,No,No phone service,DSL,No,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),46.0,2424.05,No
+1895,5126-RCXYW,Male,No,Yes,Yes,54,No,No,DSL,No,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),46.0,2424.05,No
 1896,3085-QUOZK,Female,No,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,43.95,43.95,Yes
 1897,2363-BJLSL,Male,No,No,No,62,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),80.4,4981.15,No
 1898,1956-YIFGE,Male,No,Yes,Yes,22,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Mailed check,100.05,2090.25,No
@@ -4903,8 +4903,8 @@
 1901,2925-MXLSX,Female,No,No,No,30,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),68.95,2038.7,No
 1902,5820-PTRYM,Female,Yes,Yes,No,56,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,One year,Yes,Credit card (automatic),68.45,4014.0,No
 1903,9609-BENEA,Male,No,Yes,No,35,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,69.0,2441.7,No
-1904,6211-WHMYA,Female,Yes,No,No,64,No,No phone service,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,43.85,2751.0,No
-1905,4459-BBGHE,Male,No,No,Yes,30,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44.5,1307.8,No
+1904,6211-WHMYA,Female,Yes,No,No,64,No,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,43.85,2751.0,No
+1905,4459-BBGHE,Male,No,No,Yes,30,No,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44.5,1307.8,No
 1906,9945-PSVIP,Female,No,Yes,Yes,25,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Mailed check,18.7,383.65,No
 1907,1041-RXHRA,Female,No,No,No,41,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),70.25,2868.05,Yes
 1908,1750-CSKKM,Male,No,No,Yes,9,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,55.35,449.75,Yes
@@ -4936,19 +4936,19 @@
 1934,6257-DTAYD,Male,No,Yes,No,71,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),104.15,7365.3,No
 1935,4616-ULAOA,Female,No,Yes,Yes,65,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),110.8,7245.9,No
 1936,7693-LCKZL,Male,No,Yes,Yes,5,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80.15,385.0,Yes
-1937,7746-AWNQW,Female,No,No,No,28,No,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,35.75,961.4,No
+1937,7746-AWNQW,Female,No,No,No,28,No,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,35.75,961.4,No
 1938,5996-EBTKM,Female,No,Yes,Yes,67,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),69.9,4615.9,No
 1939,2758-RNWXS,Male,No,No,No,35,Yes,No,Fiber optic,Yes,No,No,Yes,No,Yes,One year,Yes,Electronic check,89.2,3251.3,No
-1940,2314-TNDJQ,Female,No,Yes,Yes,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),55.65,3880.05,No
-1941,2405-LBMUW,Female,No,Yes,Yes,61,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),50.7,3088.75,No
+1940,2314-TNDJQ,Female,No,Yes,Yes,72,No,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),55.65,3880.05,No
+1941,2405-LBMUW,Female,No,Yes,Yes,61,No,No,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),50.7,3088.75,No
 1942,3454-JFUBC,Male,Yes,No,No,68,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),20.0,1396.0,No
-1943,0032-PGELS,Female,No,Yes,Yes,1,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),30.5,30.5,Yes
+1943,0032-PGELS,Female,No,Yes,Yes,1,No,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),30.5,30.5,Yes
 1944,9039-ZVJDC,Male,No,No,No,3,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,19.1,53.05,No
 1945,6797-LNAQX,Male,No,Yes,Yes,70,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,No,Bank transfer (automatic),98.3,6859.5,Yes
-1946,9013-AQORL,Female,No,No,Yes,48,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),45.55,2108.35,No
+1946,9013-AQORL,Female,No,No,Yes,48,No,No,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),45.55,2108.35,No
 1947,2898-MRKPI,Male,No,Yes,Yes,68,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),101.05,6770.5,No
 1948,2750-BJLSB,Female,No,No,No,47,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,103.7,4730.6,No
-1949,3648-GZPHF,Male,No,Yes,Yes,32,No,No phone service,DSL,No,No,Yes,Yes,No,No,One year,Yes,Mailed check,36.25,1151.05,No
+1949,3648-GZPHF,Male,No,Yes,Yes,32,No,No,DSL,No,No,Yes,Yes,No,No,One year,Yes,Mailed check,36.25,1151.05,No
 1950,2075-RMJIK,Female,No,Yes,Yes,5,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,49.4,232.55,No
 1951,9588-YRFHY,Male,No,No,No,49,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Credit card (automatic),19.9,1022.6,No
 1952,6394-MFYNG,Female,No,No,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),107.4,5121.3,Yes
@@ -4963,9 +4963,9 @@
 1961,8155-IBNHG,Female,No,Yes,No,24,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75.4,1747.85,Yes
 1962,0886-QGENL,Female,Yes,Yes,No,27,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.25,2754.45,Yes
 1963,9547-ITEFG,Male,No,Yes,Yes,9,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),102.6,897.75,No
-1964,1264-FUHCX,Female,No,Yes,No,49,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),56.3,2780.6,No
+1964,1264-FUHCX,Female,No,Yes,No,49,No,No,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),56.3,2780.6,No
 1965,7789-CRUVC,Female,Yes,Yes,No,61,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),94.2,5895.45,No
-1966,6598-KELSS,Male,No,No,Yes,50,No,No phone service,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),43.05,2208.05,No
+1966,6598-KELSS,Male,No,No,Yes,50,No,No,DSL,Yes,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),43.05,2208.05,No
 1967,8739-WWKDU,Male,Yes,No,No,25,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,89.5,2196.15,Yes
 1968,8685-WHQPW,Female,Yes,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74.4,1692.6,Yes
 1969,4745-LSPLO,Male,No,No,No,1,Yes,No,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,20.5,20.5,Yes
@@ -4978,13 +4978,13 @@
 1976,5130-YPIRV,Female,No,Yes,No,62,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Credit card (automatic),72.0,4284.2,No
 1977,2843-CQMEG,Male,No,No,No,24,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,49.7,1218.25,No
 1978,6439-PKTRR,Female,No,Yes,Yes,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Electronic check,80.7,5617.95,No
-1979,5351-QESIO,Male,No,No,Yes,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,24.2,24.2,No
-1980,0786-VSSUD,Male,Yes,No,No,16,No,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,39.0,679.85,Yes
+1979,5351-QESIO,Male,No,No,Yes,1,No,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,24.2,24.2,No
+1980,0786-VSSUD,Male,Yes,No,No,16,No,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,39.0,679.85,Yes
 1981,5568-DMXZS,Female,No,No,No,8,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,65.45,554.45,No
 1982,8468-FZTOE,Female,No,Yes,Yes,72,Yes,No,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Electronic check,74.35,5237.4,No
 1983,6633-SYEUS,Female,No,No,No,23,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),83.2,2032.3,No
-1984,6447-GORXK,Male,No,No,Yes,31,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),25.0,789.2,No
-1985,6967-PEJLL,Male,No,Yes,Yes,37,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Electronic check,40.2,1525.35,No
+1984,6447-GORXK,Male,No,No,Yes,31,No,No,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),25.0,789.2,No
+1985,6967-PEJLL,Male,No,Yes,Yes,37,No,No,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Electronic check,40.2,1525.35,No
 1986,3976-BWUCK,Female,No,Yes,No,30,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),94.1,2804.45,Yes
 1987,5981-ZVXOT,Female,Yes,No,No,35,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,108.35,3726.15,No
 1988,1684-FLBGS,Female,No,Yes,Yes,23,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),69.5,1652.1,No
@@ -4998,15 +4998,15 @@
 1996,4174-LPGTI,Female,No,Yes,Yes,41,Yes,No,DSL,No,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),66.5,2728.6,Yes
 1997,2523-EWWZL,Female,No,Yes,No,27,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,76.1,2093.4,No
 1998,0928-XUTSN,Female,No,No,No,13,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80.5,1011.8,No
-1999,2108-XWMPY,Male,No,No,No,3,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,35.45,106.85,Yes
+1999,2108-XWMPY,Male,No,No,No,3,No,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,35.45,106.85,Yes
 2000,0052-YNYOT,Female,No,No,No,67,Yes,No,No,No,No,No,No,No,No,One year,No,Electronic check,20.55,1343.4,No
 2001,6304-IJFSQ,Male,No,No,No,3,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,49.9,130.1,Yes
 2002,9586-JGQKH,Female,No,Yes,No,64,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),105.4,6794.75,No
-2003,4501-VCPFK,Male,No,No,No,26,No,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,35.75,1022.5,No
+2003,4501-VCPFK,Male,No,No,No,26,No,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,35.75,1022.5,No
 2004,6075-SLNIL,Male,No,No,No,38,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),95.1,3691.2,No
 2005,9347-AERRL,Male,No,Yes,No,23,Yes,No,No,No,No,No,No,No,No,One year,No,Credit card (automatic),19.3,486.2,No
 2006,0093-XWZFY,Male,No,No,No,40,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),104.5,4036.85,Yes
-2007,2274-XUATA,Male,Yes,Yes,No,72,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),63.1,4685.55,No
+2007,2274-XUATA,Male,Yes,Yes,No,72,No,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),63.1,4685.55,No
 2008,1980-KXVPM,Female,Yes,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75.05,256.25,Yes
 2009,7703-ZEKEF,Male,No,No,No,23,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,81.0,1917.1,Yes
 2010,0723-DRCLG,Female,Yes,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.45,74.45,Yes
@@ -5028,17 +5028,17 @@
 2026,8775-CEBBJ,Female,No,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),44.2,403.35,Yes
 2027,0550-DCXLH,Male,No,No,No,13,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,73.35,931.55,No
 2028,9281-CEDRU,Female,No,Yes,No,68,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),64.1,4326.25,No
-2029,2235-DWLJU,Female,Yes,No,No,6,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44.4,263.05,No
+2029,2235-DWLJU,Female,Yes,No,No,6,No,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44.4,263.05,No
 2030,0871-OPBXW,Female,No,No,No,2,Yes,No,No,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,20.05,39.25,No
 2031,3605-JISKB,Male,Yes,Yes,No,55,Yes,Yes,DSL,Yes,Yes,No,No,No,No,One year,No,Credit card (automatic),60.0,3316.1,No
 2032,6894-LFHLY,Male,Yes,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.75,75.75,Yes
 2033,9767-FFLEM,Male,No,No,No,38,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),69.5,2625.25,No
 2034,0639-TSIQW,Female,No,No,No,67,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),102.95,6886.25,Yes
 2035,8456-QDAVC,Male,No,No,No,19,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),78.7,1495.1,No
-2036,7750-EYXWZ,Female,No,No,No,12,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,60.65,743.3,No
+2036,7750-EYXWZ,Female,No,No,No,12,No,No,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,60.65,743.3,No
 2037,2569-WGERO,Female,No,No,No,72,Yes,No,No,No,No,No,No,No,No,Two year,Yes,Bank transfer (automatic),21.15,1419.4,No
 2038,6840-RESVB,Male,No,Yes,Yes,24,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,84.8,1990.5,No
 2039,2234-XADUH,Female,No,Yes,Yes,72,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),103.2,7362.9,No
-2040,4801-JZAZL,Female,No,Yes,Yes,11,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,29.6,346.45,No
+2040,4801-JZAZL,Female,No,Yes,Yes,11,No,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,29.6,346.45,No
 2041,8361-LTMKD,Male,Yes,Yes,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74.4,306.6,Yes
 2042,3186-AJIEK,Male,No,No,No,66,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),105.65,6844.5,No
